@@ -1,6 +1,6 @@
 
 <h1 align="center">ᓬ(•́ ᗜ •̀)ᕒ ᓬ(｡•́︿•̀｡)ᕒ ᓬ(•̀ _ •́)ᕒ ᓬ(•̀ o •́)ᕒ ᓬ(•́ _ •̀)ᕒ ᓬ(•̀ w •́)ᕒ
-ᓬ(♥̯ ♥)ᕒ </h1>
+ᓬ(♥̯ ♥)ᕒ ᓬ(•́ ‿ •̀)ᕒ ᓬ(ﾟoﾟ)ᕒ ᓬ(•̀ ﾛ •́)ᕒ ᓬ(•̀ ◡ •́)ᕒ ᓬ(•̀ ﾍ •́)ᕒ ᓬ(⁰ o ⁰)ᕒ ᓬ(•̀ ︶ •́)ᕒ </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeltheaxelotl&label=Profile%20views&color=0e75b6&style=flat" alt="axeltheaxelotl" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>

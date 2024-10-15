@@ -1,4 +1,4 @@
-<h1 align="center">j'ai mit mon cul dans un pot de miel🍯🧸</h1>
+<h1 align="center">Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeltheaxelotl&label=Profile%20views&color=0e75b6&style=flat" alt="axeltheaxelotl" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>

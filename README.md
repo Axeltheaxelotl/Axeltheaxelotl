@@ -8,8 +8,7 @@
 
 <h3 align="left">À propos :</h3>
 <p align="left"> 
-  Étudiant à l'école 42, passionné par le développement en C et les défis de programmation. 
-  Toujours à la recherche de solutions créatives, que ce soit pour le projet 'ft_printf' ou pour des idées plus folles comme faire fermer un terminal en tapant 'ls' ! 😎
+  j'ai manger un kiwi et maintenant il es partie 😔
 </p>
 
 <h3 align="left">Langages et outils :</h3>
@@ -32,21 +31,20 @@
 <ul align="left">
   <li>💻 <strong>ft_printf</strong>: Un projet pour maîtriser la gestion de formats personnalisés en C.</li>
   <li>🌐 <strong>Webserv</strong>: Création d'un serveur HTTP à partir de zéro.</li>
-  <li>🎮 <strong>Retro Gaming VPS</strong>: Mise en place d'un serveur de jeux rétros pour s'amuser avec les amis !</li>
+  <li>🎮 <strong>Cube3D</strong>: j les foutue dans le goinfre bordel</li>
 </ul>
 
 <h3 align="left">Pourquoi collaborer avec moi ?</h3>
 <ul align="left">
-  <li>✔️ Expertise en C et Git.</li>
-  <li>✔️ Capacité à résoudre des bugs complexes (ou à demander à ChatGPT de les résoudre !).</li>
-  <li>✔️ Passionné par l'optimisation et les projets open-source.</li>
-  <li>✔️ Toujours ouvert à l'apprentissage de nouvelles technologies et techniques de développement.</li>
+  <li>✔️ je suis beau.</li>
+  <li>✔️ chatgpt prenium.</li>
+  <li>✔️ esque ta deja leché les deux boulles d'un mec.</li>
+  <li>✔️ Toujours ouvert.</li>
 </ul>
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/axeltheaxelotl" target="_blank">Mon LinkedIn</a> | 
-  <a href="mailto:axeltheaxelotl@example.com">Email</a>
+  <h3 align="left">Bas non enft.</h3>
 </p>
 
 <!-- GIF drôle -->

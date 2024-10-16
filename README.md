@@ -20,4 +20,4 @@
 </p>
 
 <!-- GIF intégré ici avec la syntaxe Markdown -->
-![GIF drôle](https://i.pinimg.com/originals/e1/40/c2/e140c293bed2aea26fc6d7e98f009edf.gif)
+![GIF drôle](https://i.pinimg.com/originals/c6/a2/9a/c6a29a065f86b312689a5457f8c4d50d.gif)

@@ -29,7 +29,7 @@
 
 <h3 align="left">Projets en cours :</h3>
 <ul align="left">
-  <li>💻 <strong>ft_printf</strong>: Un projet pour maîtriser la gestion de formats personnalisés en C.</li>
+  <li>💻 <strong>ft_printf</strong>: Un projet en C.</li>
   <li>🌐 <strong>Webserv</strong>: Création d'un serveur HTTP à partir de zéro.</li>
   <li>🎮 <strong>Cube3D</strong>: j les foutue dans le goinfre bordel</li>
 </ul>

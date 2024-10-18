@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/d9/44/5a/d9445ab67654f2597f360f1e8cf70b5a.gif" alt="Image à gauche" width="100" style="vertical-align: middle; margin-right: 20px;" />
+  <img src="https://i.pinimg.com/originals/d5/d1/6e/d5d16e4a56c42e5acfd3353328f41449.gif" alt="Image à gauche" width="100" style="vertical-align: middle; margin-right: 20px;" />
   Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
 </h1>
 

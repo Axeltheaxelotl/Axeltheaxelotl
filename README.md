@@ -12,7 +12,7 @@
 
 <h3 align="left">À propos :</h3>
 <p align="left"> 
-  j'ai manger un kiwi et maintenant il es partie 😔
+  j'ai manger un 𝓚𝓲𝔀𝓲 maintenant il es partie 🥝
 </p>
 
 <h3 align="left">Langages et outils :</h3>

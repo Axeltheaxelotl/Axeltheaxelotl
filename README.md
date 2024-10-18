@@ -1,6 +1,6 @@
 <h1 align="center">
   Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
-  <img src="https://i.pinimg.com/originals/c6/a2/9a/c6a29a065f86b312689a5457f8c4d50d.gif" alt="GIF humoristique" width="100" align="right" style="margin-left: 10px;" />
+  <img src="https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif" alt="GIF humoristique" width="100" align="right" style="margin-left: 10px;" />
 </h1>
 
 <p align="center">

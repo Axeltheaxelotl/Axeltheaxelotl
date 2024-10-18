@@ -4,14 +4,6 @@
   <img src="https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif" alt="GIF humoristique" width="100" align="right" style="margin-left: 10px;" />
 </h1>
 
-
-
-
-<h1 align="center">
-  Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
-  <img src="https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif" alt="GIF humoristique" width="100" align="right" style="margin-left: 10px;" />
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=axeltheaxelotl&label=Profile%20views&color=0e75b6&style=flat" alt="axeltheaxelotl" />
   <img src="https://img.shields.io/github/followers/axeltheaxelotl?label=Suiveurs&style=social" alt="Followers" />

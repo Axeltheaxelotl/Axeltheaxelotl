@@ -48,7 +48,7 @@
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
-  <h3 align="left">Bas non enft.</h3>
+  <h3 align="left">Bas non enft je suis a basic fritte H24.</h3>
 </p>
 
 <!-- GIF drôle -->

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ce/bf/71/cebf716a1a5f0d4d715bcc5a00f385cb.gif" alt="GIF humoristique" width="500" />
-</p>
 
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/58/65/22/58652201084474803feba31b894982c5.gif" alt="Image à gauche" width="100" style="vertical-align: middle; margin-right: 10px;" />
@@ -40,6 +37,10 @@
   <li>🌐 <strong>Webserv</strong>: Création d'un serveur HTTP à partir de zéro.</li>
   <li>🎮 <strong>Cube3D</strong>: j les foutue dans le goinfre bordel</li>
 </ul>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ce/bf/71/cebf716a1a5f0d4d715bcc5a00f385cb.gif" alt="GIF humoristique" width="500" />
+</p>
 
 <h3 align="left">Pourquoi collaborer avec moi ?</h3>
 <ul align="left">

@@ -1,8 +1,10 @@
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif" alt="Image à gauche" width="100" align="left" style="margin-right: 10px;" />
-  Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
-  <img src="https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif" alt="GIF humoristique" width="100" align="right" style="margin-left: 10px;" />
-</h1>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.pinimg.com/originals/48/41/c2/4841c25f3370c4e724cce6f6e0f3e3f2.gif" alt="Image à gauche" width="100" style="margin-right: 10px;" />
+  <h1 style="flex-grow: 1; text-align: center;">
+    Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
+  </h1>
+  <img src="https://i.pinimg.com/originals/48/41/c2/4841c25f3370c4e724cce6f6e0f3e3f2.gif" alt="GIF humoristique" width="100" style="margin-left: 10px;" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=axeltheaxelotl&label=Profile%20views&color=0e75b6&style=flat" alt="axeltheaxelotl" />

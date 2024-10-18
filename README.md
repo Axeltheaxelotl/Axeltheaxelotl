@@ -60,4 +60,4 @@
   <img src="https://i.pinimg.com/originals/c6/a2/9a/c6a29a065f86b312689a5457f8c4d50d.gif" alt="GIF humoristique" width="500" />
 </p>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/06/86/30/06863041ec3c072608399a7bda4573b9.gif" alt="GIF de danse" width="100" style="vertical-align: middle; margin-right: 10px;" /> <strong>Je danse pour toi, Pascalerossi.</strong> 💃 </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/ed/7c/3c/ed7c3cb5b162a8b81b1d7644eb1bc100.gif" alt="GIF de danse" width="100" style="vertical-align: middle; margin-right: 24px;" /> <span style="font-size: 24px;"><strong>Je danse pour toi, Pascalerossi.</strong> 💃</span> </p>

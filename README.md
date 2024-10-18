@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.pinimg.com/originals/48/41/c2/4841c25f3370c4e724cce6f6e0f3e3f2.gif" alt="Image à gauche" width="100" style="margin-right: 10px;" />
+  <img src="https://i.pinimg.com/originals/f0/ca/ae/f0caae541c50938876a8b4c1882c8af4.gif" alt="Image à gauche" width="100" style="margin-right: 10px;" />
   <h1 style="flex-grow: 1; text-align: center;">
     Étudiant à 42 : je fous rien, ChatGPT fait tout. Si 'ft_printf' pète, c’est pas ma faute, faut juste pas coder dans le 'goinfre' !
   </h1>
-  <img src="https://i.pinimg.com/originals/48/41/c2/4841c25f3370c4e724cce6f6e0f3e3f2.gif" alt="GIF humoristique" width="100" style="margin-left: 10px;" />
+  <img src="https://i.pinimg.com/originals/f0/ca/ae/f0caae541c50938876a8b4c1882c8af4.gif" alt="GIF humoristique" width="100" style="margin-left: 10px;" />
 </div>
 
 <p align="center">

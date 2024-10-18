@@ -38,7 +38,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ce/bf/71/cebf716a1a5f0d4d715bcc5a00f385cb.gif" alt="GIF humoristique" width="500" />
+  <img src="https://i.pinimg.com/originals/ce/bf/71/cebf716a1a5f0d4d715bcc5a00f385cb.gif" alt="GIF humoristique" height="200" />
 </p>
 
 <h3 align="left">Pourquoi collaborer avec moi ?</h3>

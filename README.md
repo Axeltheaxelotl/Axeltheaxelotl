@@ -1,18 +1,6 @@
 <h1 align="center" style="color:#ff69b4;">Salut 👋, je suis VotreNom</h1>
 <h3 align="center" style="color:#ff69b4;">Étudiant à 42, passionné de développement et amoureux du rose !</h3>
 
-<!-- Badges de réseaux sociaux avec un thème rose -->
-<p align="center">
-  <a href="https://twitter.com/VotreProfil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23ff69b4.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/VotreProfil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23ff69b4.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:VotreEmail@example.com">
-    <img src="https://img.shields.io/badge/Email-%23ff69b4?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ---
 

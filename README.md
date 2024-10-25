@@ -6,7 +6,7 @@
 
 **🎖 Mentions spéciales de 42 🎖**
 
-- **[gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4)**  
+- **[gabrielle-pch]()**  
   <img src="https://avatars.githubusercontent.com/u/12345678" width="40" style="border-radius: 50%"/> – *Élève numéro 1 pour les solutions impossibles !*
 
 - **[LoopMaster3000](https://github.com/LoopMaster3000)**  

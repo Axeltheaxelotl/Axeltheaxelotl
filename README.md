@@ -51,9 +51,9 @@
 
 **🎖 Mentions spéciales de 42 🎖**
 
-| ![gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4&s=60) [gabrielle-pch](https://github.com/gabrielle-pch) <br> *Spécialiste des solutions élégantes* | ![Nowex214](https://avatars.githubusercontent.com/u/95699618?v=4&s=60) [Nowex214](https://github.com/Nowex214) <br> *Maître des commits légendaires* | ![fabiosilva24](https://avatars.githubusercontent.com/u/155982713?v=4&s=60) [fabiosilva24](https://github.com/fabiosilva24) <br> *Architecte de code ambitieux* |
+| ![gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4&s=80) [gabrielle-pch](https://github.com/gabrielle-pch) <br> *Spécialiste des solutions élégantes* | ![Nowex214](https://avatars.githubusercontent.com/u/95699618?v=4&s=80) [Nowex214](https://github.com/Nowex214) <br> *Maître des commits légendaires* | ![fabiosilva24](https://avatars.githubusercontent.com/u/155982713?v=4&s=80) [fabiosilva24](https://github.com/fabiosilva24) <br> *Architecte de code ambitieux* |
 | --- | --- | --- |
-| ![MadaniBoualem](https://avatars.githubusercontent.com/u/122929009?v=4&s=60) [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Le perfectionniste infatigable* | ![nathoi](https://avatars.githubusercontent.com/u/185559580?v=4&s=60) [nathoi](https://github.com/nathoi) <br> *Guerrier des algorithmes* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=60) [maximwell](https://github.com/maximwell) <br> *Champion de la logique en C* |
+| ![MadaniBoualem](https://avatars.githubusercontent.com/u/122929009?v=4&s=80) [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Le perfectionniste infatigable* | ![nathoi](https://avatars.githubusercontent.com/u/185559580?v=4&s=80) [nathoi](https://github.com/nathoi) <br> *Guerrier des algorithmes* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=80) [maximwell](https://github.com/maximwell) <br> *Champion de la logique en C* |
 
 </div>
 

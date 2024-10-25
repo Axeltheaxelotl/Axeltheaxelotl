@@ -1,75 +1,82 @@
-<!-- En-tête avec une image de bienvenue -->
+<!-- En-tête avec une image de bienvenue en rose -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnBXYJG6tPL03VS/giphy.gif" alt="Bienvenue" width="100%" style="max-height:300px; object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Bienvenue" width="100%" style="max-height:300px; object-fit:cover;"/>
 </p>
 
-<h1 align="center">Salut 👋, je suis VotreNom</h1>
-<h3 align="center">Étudiant à 42, passionné de développement logiciel et toujours prêt pour de nouveaux défis !</h3>
+<h1 align="center" style="color:#ff69b4;">Salut 👋, je suis VotreNom</h1>
+<h3 align="center" style="color:#ff69b4;">Étudiant à 42, passionné de développement et amoureux du rose !</h3>
 
-<!-- Badges de réseaux sociaux -->
+<!-- Badges de réseaux sociaux avec un thème rose -->
 <p align="center">
   <a href="https://twitter.com/VotreProfil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%23ff69b4.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/VotreProfil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23ff69b4.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:VotreEmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%23ff69b4?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 🌸 À propos de moi
 
-- 🔭 Actuellement, je travaille sur plusieurs projets de **programmation système** et de **développement web**.
-- 🌱 Je continue d'apprendre : **Rust**, **Docker**, et l'**intelligence artificielle**.
-- 🤔 J'aime discuter de **technologie**, **science-fiction**, et de **conceptions logicielles**.
-- 💬 **Posez-moi des questions** sur la programmation et les projets d'école, je suis toujours partant pour partager mes connaissances !
+<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
+
+- 🔭 Actuellement, je travaille sur des projets de **développement logiciel** et **programmation système**.
+- 🌱 J'explore aussi les technologies **Rust**, **Docker**, et l'**intelligence artificielle**.
+- 💬 **Discutez avec moi** de programmation, de projets tech, et des nuances de rose 🌷 !
+- ⚡ **Fun Fact** : Je crois fermement que chaque ligne de code mérite une touche de rose !
 
 ---
 
-## 🛠️ Langages et Outils
+## 🛠️ Compétences
+
+### 💖 Langages
+
+![C](https://img.shields.io/badge/C-%23ff69b4.svg?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23ff69b4.svg?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23ff69b4.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23ff69b4.svg?style=for-the-badge&logo=Rust&logoColor=white)
+
+### 🧰 Outils et Technologies
+
+![Linux](https://img.shields.io/badge/Linux-%23ff69b4.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23ff69b4.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23ff69b4.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23ff69b4.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+---
+
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=neon-pink&hide_border=true&ring=ff69b4&fire=ff69b4" alt="Streak GitHub" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&langs_count=8&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Langages les plus utilisés" width="50%"/>
 </p>
 
 ---
 
-## 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=radical" alt="Streak GitHub" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&langs_count=8&layout=compact&theme=radical" alt="Langages les plus utilisés" width="50%"/>
-</p>
-
----
-
-## 🚀 Projets en vedette
+## 💖 Projets en rose
 
 ### [📟 ft_printf](https://github.com/VotreNomUtilisateur/ft_printf)
 
 > **Statut** : Terminé ✅
 
-- Réimplémentation de la fonction printf en C pour comprendre la gestion de la mémoire.
-- **Technologies** : C, gestion de la mémoire, formatage de chaîne.
+- Une réimplémentation de `printf` en C pour comprendre la manipulation de chaînes et de formats.
+- **Technologies** : C, manipulation de mémoire, formatage de chaînes.
 
 ### [🌐 Webserv](https://github.com/VotreNomUtilisateur/Webserv)
 
 > **Statut** : En cours ⏳
 
-- Création d'un serveur HTTP léger en C++, conforme aux spécifications HTTP/1.1.
+- Développement d'un serveur HTTP léger, conforme au standard HTTP/1.1.
 - **Technologies** : C++, Réseaux, Protocoles HTTP.
 
 ### [🎮 Cube3D](https://github.com/VotreNomUtilisateur/Cube3D)
@@ -84,7 +91,7 @@
 ## 🏆 Trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=algolia&row=1&no-frame=true&no-bg=true" alt="Trophées GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=dracula&no-frame=true&title=MultiLanguage,Stars,Commit,PullRequest&title_color=ff69b4&column=4" alt="Trophées GitHub"/>
 </p>
 
 ---
@@ -92,22 +99,22 @@
 ## ✨ Citation inspirante
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citation du jour"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=ff69b4" alt="Citation inspirante"/>
 </p>
 
 ---
 
-## 🤝 Me Contacter
+## 📬 Me Contacter
 
 <p align="center">
-  <a href="mailto:VotreEmail@example.com"><img src="https://img.icons8.com/clouds/100/000000/email.png" alt="Email"/></a>
-  <a href="https://twitter.com/VotreProfil" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/VotreProfil/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:VotreEmail@example.com"><img src="https://img.icons8.com/clouds/100/ff69b4/email.png" alt="Email"/></a>
+  <a href="https://twitter.com/VotreProfil" target="_blank"><img src="https://img.icons8.com/clouds/100/ff69b4/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/VotreProfil/" target="_blank"><img src="https://img.icons8.com/clouds/100/ff69b4/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-<!-- GIF de fin -->
+<!-- GIF de fin en rose -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="GIF de fin" width="100%"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>

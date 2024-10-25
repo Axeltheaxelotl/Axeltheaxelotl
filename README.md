@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff69b4;">Salut ca etre moi •ᴗ•</h1>
+<h1 align="center" style="color:#ff69b4;">Salut ca etre moi 🎀•ᴗ•🎀</h1>
 <h3 align="center" style="color:#ff69b4;">Ca etre etudiant 4️⃣2️⃣!</h3>
 
 

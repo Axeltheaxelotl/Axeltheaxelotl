@@ -4,7 +4,11 @@
 
 ---
 
-## 🛠️ Compétences de ca <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="30" align="right"/>
+<table>
+  <tr>
+    <td>
+
+## 🛠️ Compétences de ca
 
 ### 💖 Langages de ca
 
@@ -19,6 +23,14 @@
 ![Git](https://img.shields.io/badge/Git-%23ff69b4.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23ff69b4.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23ff69b4.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+</td>
+    <td>
+      <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="120" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 

@@ -78,20 +78,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/7b/c2/ec/7bc2ec36d0ae40a82010f4c4ea432b98.gif" width="300" alt="GIF" />
-    </td>
-    <td align="center">
-
 ## Tu vas tellement me manquer  
 **T'es fraîche, je suis frais**  
 **La distance entre nous s'efface**  
 **J'aimerais te manger**
-
-</td>
-  </tr>
-</table>
 
 </div>

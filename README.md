@@ -76,6 +76,22 @@
   <img src="https://i.pinimg.com/736x/e5/e1/6a/e5e16a1e39aafb5a6e0c6e54df58789a.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
-## 🎥 Vidéo de fin
+<div align="center">
 
-[![Vidéo de fin](https://via.placeholder.com/480x270.png?text=Vid%C3%A9o+de+fin)](https://fr.pinterest.com/pin/3166662231972553/)
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" width="300" />
+    </td>
+    <td>
+
+## Tu vas tellement me manquer  
+**t fraiche j suis fraîche**  
+**la distance entre nous s'affaise**  
+**j'aimerait te manger les fesses**
+
+</td>
+  </tr>
+</table>
+
+</div>

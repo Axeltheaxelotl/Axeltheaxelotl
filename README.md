@@ -1,16 +1,16 @@
-<h1 align="center" style="color:#FF0000;">Salut ca etre moi 🎀•ᴗ•🎀</h1>
+<h1 align="center" style="color:#FF0000;">Salut ca etre moi 🍒•ᴗ•🍒</h1>
 <h3 align="center" style="color:#FF0000;">Ca etre etudiant 4️⃣2️⃣!</h3>
 
 ---
-
+🟥🟥🟥
 <div align="center">
   <table>
     <tr>
       <td>
 
-## 🛠️ Compétences de ca
+## 🛠️ Compétences de ca 🎈
 
-### 💖 Langages de ca
+### 🍎 Langages de ca 🎈
 
 ![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23FF0000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
-### 🧰 Outils et Technologies de ca
+### 🧰 Outils et Technologies de ca 🎈
 
 ![Linux](https://img.shields.io/badge/Linux-%23FF0000.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Statistiques GitHub de ca
+## 📊 Statistiques GitHub de ca 🎈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## Ca etre Discord de moi
+## Ca etre Discord de moi ☎️
 
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">

@@ -45,7 +45,7 @@
 <ul align="left">
   <li>✔️ je suis beau.</li>
   <li>✔️ chatgpt premium.</li>
-  <li>✔️ esque ta deja leché les deux boulles d'un mec.</li>
+  <li>✔️ est ce que ta deja leché les deux boulles d'un mec.</li>
   <li>✔️ Toujours ouvert.</li>
 </ul>
 

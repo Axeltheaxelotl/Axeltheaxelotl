@@ -1,6 +1,6 @@
 <!-- En-tête avec une image de bienvenue en rose -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Bienvenue" width="100%" style="max-height:300px; object-fit:cover;"/>
+  <img src="https://i.pinimg.com/originals/b7/b7/57/b7b757c23d3a24ad36c733139b492770.gif" alt="Bienvenue" width="100%" style="max-height:300px; object-fit:cover;"/>
 </p>
 
 <h1 align="center" style="color:#ff69b4;">Salut 👋, je suis VotreNom</h1>

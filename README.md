@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=neon-pink&hide_border=true&ring=ff69b4&fire=ff69b4" alt="Streak GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-pink&hide_border=true&ring=ff69b4&fire=ff69b4" alt="Streak GitHub" width="48%"/>
 </p>
 
 <p align="center">

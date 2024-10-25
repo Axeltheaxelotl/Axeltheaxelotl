@@ -3,10 +3,10 @@
 
 
 ---
-
-<table>
-  <tr>
-    <td>
+<div align="center">
+  <table>
+    <tr>
+      <td>
 
 ## 🛠️ Compétences de ca
 
@@ -25,11 +25,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23ff69b4.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="150" />
-    </td>
-  </tr>
-</table>
+      <td>
+        <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

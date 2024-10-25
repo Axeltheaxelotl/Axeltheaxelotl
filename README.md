@@ -4,15 +4,6 @@
 
 ---
 
-**🎖 Mentions spéciales de 42 🎖**
-
-- **[gabrielle-pch]()**  
-  <img src="https://avatars.githubusercontent.com/u/12345678" width="40" style="border-radius: 50%"/> – *Élève numéro 1 pour les solutions impossibles !*
-
-- **[LoopMaster3000](https://github.com/LoopMaster3000)**  
-  <img src="https://avatars.githubusercontent.com/u/87654321" width="40" style="border-radius: 50%"/> – *Spécialiste de la boucle infinie.*
-
-
 ## 🛠️ Compétences de ca
 
 ### 💖 Langages de ca
@@ -53,6 +44,13 @@
 </p>
 
 ---
+**🎖 Mentions spéciales de 42 🎖**
+
+- **[gabrielle-pch]()**  
+  <img src="https://avatars.githubusercontent.com/u/12345678" width="40" style="border-radius: 50%"/> – *Élève numéro 1 pour les solutions impossibles !*
+
+- **[LoopMaster3000](https://github.com/LoopMaster3000)**  
+  <img src="https://avatars.githubusercontent.com/u/87654321" width="40" style="border-radius: 50%"/> – *Spécialiste de la boucle infinie.*
 
 <!-- GIF de fin en rose -->
 <p align="center">

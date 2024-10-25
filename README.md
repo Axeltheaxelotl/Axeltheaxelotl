@@ -12,16 +12,16 @@
 
 ---
 
-## 🛠️ Compétences
+## 🛠️ Compétences de ca
 
-### 💖 Langages
+### 💖 Langages de ca
 
 ![C](https://img.shields.io/badge/C-%23ff69b4.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23ff69b4.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23ff69b4.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23ff69b4.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
-### 🧰 Outils et Technologies
+### 🧰 Outils et Technologies de ca
 
 ![Linux](https://img.shields.io/badge/Linux-%23ff69b4.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23ff69b4.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub de ca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>

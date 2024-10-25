@@ -48,7 +48,7 @@
 
 **🎖 Mentions spéciales de 42 🎖**
 
-| ![https://github.com/gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4?v=4&s=80) [CodeSensei42](https://github.com/CodeSensei42) <br> *Solution impossible, niveau expert* | ![LoopMaster3000](https://avatars.githubusercontent.com/u/87654321?v=4&s=40) [LoopMaster3000](https://github.com/LoopMaster3000) <br> *Boucles infinies garanties* | ![MallocQueen](https://avatars.githubusercontent.com/u/23456789?v=4&s=40) [MallocQueen](https://github.com/MallocQueen) <br> *mallocs mystiques depuis 2023* |
+| ![https://github.com/gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4?v=4&s=180) [CodeSensei42](https://github.com/CodeSensei42) <br> *Solution impossible, niveau expert* | ![LoopMaster3000](https://avatars.githubusercontent.com/u/87654321?v=4&s=40) [LoopMaster3000](https://github.com/LoopMaster3000) <br> *Boucles infinies garanties* | ![MallocQueen](https://avatars.githubusercontent.com/u/23456789?v=4&s=40) [MallocQueen](https://github.com/MallocQueen) <br> *mallocs mystiques depuis 2023* |
 | --- | --- | --- |
 | ![DebugKnight42](https://avatars.githubusercontent.com/u/34567890?v=4&s=40) [DebugKnight42](https://github.com/DebugKnight42) <br> *Les bugs n'ont qu'à bien se tenir* | ![SegFaultHero](https://avatars.githubusercontent.com/u/45678901?v=4&s=40) [SegFaultHero](https://github.com/SegFaultHero) <br> *Super-héros des segfaults* | ![CompileWizard](https://avatars.githubusercontent.com/u/56789012?v=4&s=40) [CompileWizard](https://github.com/CompileWizard) <br> *Magie des compilations* |
 

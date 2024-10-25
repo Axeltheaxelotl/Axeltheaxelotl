@@ -57,11 +57,9 @@
 
 ---
 
-## 🌸 À propos de moi
+## 🩷🎖 Mentions honorable 🎖🩷
 
 <div align="center">
-
-**🎖 Mentions spéciales de 42 🎖**
 
 | ![gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4&s=120) [gabrielle-pch](https://github.com/gabrielle-pch) <br> *Bien* | ![Nowex214](https://avatars.githubusercontent.com/u/95699618?v=4&s=120) [Nowex214](https://github.com/Nowex214) <br> *Son oncle c'est pasqualerossi* | ![fabiosilva24](https://avatars.githubusercontent.com/u/155982713?v=4&s=120) [fabiosilva24](https://github.com/fabiosilva24) <br> *Black hole* |
 | --- | --- | --- |

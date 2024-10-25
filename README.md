@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#ff69b4;">Salut ca etre moi 🎀•ᴗ•🎀</h1>
-<h3 align="center" style="color:#ff69b4;">Ca etre etudiant 4️⃣2️⃣!</h3>
+<h1 align="center" style="color:#FF0000;">Salut ca etre moi 🎀•ᴗ•🎀</h1>
+<h3 align="center" style="color:#FF0000;">Ca etre etudiant 4️⃣2️⃣!</h3>
 
 ---
 
@@ -12,18 +12,18 @@
 
 ### 💖 Langages de ca
 
-![C](https://img.shields.io/badge/C-%23ff69b4.svg?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23ff69b4.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23ff69b4.svg?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ff69b4.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23ff69b4.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23FF0000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
 ### 🧰 Outils et Technologies de ca
 
-![Linux](https://img.shields.io/badge/Linux-%23ff69b4.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23ff69b4.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23ff69b4.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23ff69b4.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FF0000.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23FF0000.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 </td>
       <td>
@@ -38,12 +38,12 @@
 ## 📊 Statistiques GitHub de ca
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-pink&hide_border=true&ring=ff69b4&fire=ff69b4" alt="Streak GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-red&hide_border=true&ring=FF0000&fire=FF0000" alt="Streak GitHub" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=8&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Langages les plus utilisés" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=8&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Langages les plus utilisés" width="50%"/>
 </p>
 
 ---
@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%23ff69b4.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
 
-## 🩷🎖 Mentions honorable 🎖🩷
+## 🩸🎖 Mentions honorable 🎖🩸
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 </div>
 
-<!-- GIF de fin en rose -->
+<!-- GIF de fin en rouge -->
 <p align="center">
   <img src="https://i.pinimg.com/564x/aa/6c/cd/aa6ccdeb76022930bca1570b85268d9e.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
@@ -79,9 +79,9 @@
 <div align="center">
 
 ## Toi manquer a moi
-🩷⋆˚✿˖°ᡣ𐭩🩷 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈  
+🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈  
 𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒  
 𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇  
-𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩷⋆˚✿˖°ᡣ𐭩🩷
+𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸
 
 </div>

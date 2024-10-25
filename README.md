@@ -46,11 +46,12 @@
 ---
 **🎖 Mentions spéciales de 42 🎖**
 
-- **[gabrielle-pch]()**  
-  <img src="https://avatars.githubusercontent.com/u/12345678" width="40" style="border-radius: 50%"/> – *Élève numéro 1 pour les solutions impossibles !*
+| [Cgabrielle-pch]([https://github.com/CodeSensei42](https://github.com/gabrielle-pch)) ![Profile](https://avatars.githubusercontent.com/u/12345678?v=4) | [LoopMaster3000](https://github.com/LoopMaster3000) ![Profile](https://avatars.githubusercontent.com/u/87654321?v=4) | [MallocQueen](https://github.com/MallocQueen) ![Profile](https://avatars.githubusercontent.com/u/23456789?v=4) |
+| --- | --- | --- |
+| *Élève numéro 1 pour les solutions impossibles !* | *Maître des boucles infinies.* | *La reine des malloc mystérieux.* |
 
-- **[LoopMaster3000](https://github.com/LoopMaster3000)**  
-  <img src="https://avatars.githubusercontent.com/u/87654321" width="40" style="border-radius: 50%"/> – *Spécialiste de la boucle infinie.*
+| [DebugKnight42](https://github.com/DebugKnight42) ![Profile](https://avatars.githubusercontent.com/u/34567890?v=4) | [SegFaultHero](https://github.com/SegFaultHero) ![Profile](https://avatars.githubusercontent.com/u/45678901?v=4) | [CompileWizard](https://github.com/CompileWizard) ![Profile](https://avatars.githubusercontent.com/u/56789012?v=4) |
+| *Le chevalier des bugs !* | *Héros des segfaults.* | *Magicien des compilations.* |
 
 <!-- GIF de fin en rose -->
 <p align="center">

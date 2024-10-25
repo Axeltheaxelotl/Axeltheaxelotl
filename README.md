@@ -79,8 +79,8 @@
 <div align="center">
 
 ## Tu vas tellement me manquer  
-**T'es fraîche, je suis frais**  
-**La distance entre nous s'efface**  
-**J'aimerais te manger**
+### **T'es fraîche, je suis frais**  
+### *La distance entre nous s'efface*  
+## **J'aimerais te manger**
 
 </div>

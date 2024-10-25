@@ -4,13 +4,14 @@
 
 ---
 
-## 🌸 À propos de moi
+**🎖 Mentions spéciales de 42 🎖**
 
-<img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
+- **[gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4)**  
+  <img src="https://avatars.githubusercontent.com/u/12345678" width="40" style="border-radius: 50%"/> – *Élève numéro 1 pour les solutions impossibles !*
 
-<!-- Contenu personnalisé de cette section laissé vide comme demandé -->
+- **[LoopMaster3000](https://github.com/LoopMaster3000)**  
+  <img src="https://avatars.githubusercontent.com/u/87654321" width="40" style="border-radius: 50%"/> – *Spécialiste de la boucle infinie.*
 
----
 
 ## 🛠️ Compétences de ca
 

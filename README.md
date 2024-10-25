@@ -6,14 +6,14 @@
 
 ## 🛠️ Compétences de ca
 
-### 💖 Langages de ca
+### 💖 Langages de ca <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="30" align="center"/>
 
 ![C](https://img.shields.io/badge/C-%23ff69b4.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23ff69b4.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23ff69b4.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23ff69b4.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
-### 🧰 Outils et Technologies de ca
+### 🧰 Outils et Technologies de ca <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="30" align="center"/>
 
 ![Linux](https://img.shields.io/badge/Linux-%23ff69b4.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23ff69b4.svg?style=for-the-badge&logo=Git&logoColor=white)

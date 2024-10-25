@@ -44,14 +44,13 @@
 </p>
 
 ---
+## 🌸 À propos de moi
+
 **🎖 Mentions spéciales de 42 🎖**
 
-| [Cgabrielle-pch]([https://github.com/CodeSensei42](https://github.com/gabrielle-pch)) ![Profile](https://avatars.githubusercontent.com/u/12345678?v=4) | [LoopMaster3000](https://github.com/LoopMaster3000) ![Profile](https://avatars.githubusercontent.com/u/87654321?v=4) | [MallocQueen](https://github.com/MallocQueen) ![Profile](https://avatars.githubusercontent.com/u/23456789?v=4) |
+| ![https://github.com/gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4?v=4&s=40) [CodeSensei42](https://github.com/CodeSensei42) <br> *Solution impossible, niveau expert* | ![LoopMaster3000](https://avatars.githubusercontent.com/u/87654321?v=4&s=40) [LoopMaster3000](https://github.com/LoopMaster3000) <br> *Boucles infinies garanties* | ![MallocQueen](https://avatars.githubusercontent.com/u/23456789?v=4&s=40) [MallocQueen](https://github.com/MallocQueen) <br> *mallocs mystiques depuis 2023* |
 | --- | --- | --- |
-| *Élève numéro 1 pour les solutions impossibles !* | *Maître des boucles infinies.* | *La reine des malloc mystérieux.* |
-
-| [DebugKnight42](https://github.com/DebugKnight42) ![Profile](https://avatars.githubusercontent.com/u/34567890?v=4) | [SegFaultHero](https://github.com/SegFaultHero) ![Profile](https://avatars.githubusercontent.com/u/45678901?v=4) | [CompileWizard](https://github.com/CompileWizard) ![Profile](https://avatars.githubusercontent.com/u/56789012?v=4) |
-| *Le chevalier des bugs !* | *Héros des segfaults.* | *Magicien des compilations.* |
+| ![DebugKnight42](https://avatars.githubusercontent.com/u/34567890?v=4&s=40) [DebugKnight42](https://github.com/DebugKnight42) <br> *Les bugs n'ont qu'à bien se tenir* | ![SegFaultHero](https://avatars.githubusercontent.com/u/45678901?v=4&s=40) [SegFaultHero](https://github.com/SegFaultHero) <br> *Super-héros des segfaults* | ![CompileWizard](https://avatars.githubusercontent.com/u/56789012?v=4&s=40) [CompileWizard](https://github.com/CompileWizard) <br> *Magie des compilations* |
 
 <!-- GIF de fin en rose -->
 <p align="center">

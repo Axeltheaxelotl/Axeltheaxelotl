@@ -4,11 +4,11 @@
 
 ---
 
-## 🛠️ Compétences de ca
+<table>
+  <tr>
+    <td>
 
-<div style="float: right; width: 150px; margin-left: 20px;">
-  <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="150"/>
-</div>
+## 🛠️ Compétences de ca
 
 ### 💖 Langages de ca
 
@@ -24,6 +24,12 @@
 ![Docker](https://img.shields.io/badge/Docker-%23ff69b4.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23ff69b4.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+</td>
+    <td>
+      <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 

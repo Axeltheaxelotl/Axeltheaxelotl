@@ -3,6 +3,7 @@
 
 
 ---
+
 <div align="center">
   <table>
     <tr>
@@ -13,6 +14,7 @@
 ### 💖 Langages de ca
 
 ![C](https://img.shields.io/badge/C-%23ff69b4.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23ff69b4.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23ff69b4.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23ff69b4.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23ff69b4.svg?style=for-the-badge&logo=Rust&logoColor=white)
@@ -31,6 +33,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 

@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#FF0000;">Salut ca etre moi 🍒•ᴗ•🍒</h1>
 <h3 align="center" style="color:#FF0000;">Ca etre etudiant 4️⃣2️⃣!</h3>
 
----
-🟥🟥🟥
+---🟥🟥🟥
+
 <div align="center">
   <table>
     <tr>

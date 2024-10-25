@@ -54,7 +54,7 @@
 | ![gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4&s=120) [gabrielle-pch](https://github.com/gabrielle-pch) <br> *Bien* | ![Nowex214](https://avatars.githubusercontent.com/u/95699618?v=4&s=120) [Nowex214](https://github.com/Nowex214) <br> *sont oncle c pasqualerossi* | ![fabiosilva24](https://avatars.githubusercontent.com/u/155982713?v=4&s=120) [fabiosilva24](https://github.com/fabiosilva24) <br> *Black hole* |
 | --- | --- | --- |
 | ![MadaniBoualem](https://avatars.githubusercontent.com/u/122929009?v=4&s=120) [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Arbre deforestation* | ![nathoi](https://avatars.githubusercontent.com/u/185559580?v=4&s=120) [nathoi](https://github.com/nathoi) <br> *int	atoi(char *str)* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=120) [maximwell](https://github.com/maximwell) <br> *Pyramide de Ponzi* |
-| ![SLDDL](https://avatars.githubusercontent.com/u/29633620?v=4&s=120) [SLDDL](https://github.com/SLDDL) <br> *L'incontournable artisan* | ![pasqualerossi](https://avatars.githubusercontent.com/u/58959408?v=4&s=120) [pasqualerossi](https://github.com/pasqualerossi) <br> *Le mentor de Nowex* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=120) [maximwell](https://github.com/maximwell) <br> *Pyramide de Ponzi* |
+| ![SLDDL](https://avatars.githubusercontent.com/u/29633620?v=4&s=120) [SLDDL](https://github.com/SLDDL) <br> *L'incontournable artisan* | ![pasqualerossi](https://avatars.githubusercontent.com/u/58959408?v=4&s=120) [pasqualerossi](https://github.com/pasqualerossi) <br> *Le mentor de Nowex* |
 
 </div>
 

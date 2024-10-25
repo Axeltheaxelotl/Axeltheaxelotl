@@ -28,7 +28,7 @@
 
 </td>
       <td>
-        <img src="https://i.pinimg.com/originals/16/44/65/1644650a4cf9d5b5df5e04e7d63142a5.gif" width="150" />
+        <img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" width="150" />
       </td>
     </tr>
   </table>

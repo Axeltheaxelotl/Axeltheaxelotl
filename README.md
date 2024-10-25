@@ -81,14 +81,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" width="300" />
+      <img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" width="300" alt="GIF" />
     </td>
-    <td>
+    <td align="center">
 
 ## Tu vas tellement me manquer  
-**t fraiche j suis fraîche**  
-**la distance entre nous s'affaise**  
-**j'aimerait te manger les fesses**
+**T'es fraîche, je suis frais**  
+**La distance entre nous s'efface**  
+**J'aimerais te manger**
 
 </td>
   </tr>

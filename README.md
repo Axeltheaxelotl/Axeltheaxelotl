@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/6e/c5/9a/6ec59a46147bb7e1e21a748cb4ac63bd.gif" width="300" alt="GIF" />
+      <img src="https://i.pinimg.com/originals/7b/c2/ec/7bc2ec36d0ae40a82010f4c4ea432b98.gif" width="300" alt="GIF" />
     </td>
     <td align="center">
 

@@ -71,7 +71,7 @@
 
 <!-- GIF de fin en rose -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e5/e1/6a/e5e16a1e39aafb5a6e0c6e54df58789a.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/564x/aa/6c/cd/aa6ccdeb76022930bca1570b85268d9e.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

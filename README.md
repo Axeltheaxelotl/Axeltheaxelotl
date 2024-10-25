@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#ff69b4;">Salut ca etre moi</h1>
-<h3 align="center" style="color:#ff69b4;">Ca etre etudiant 42!</h3>
+<h1 align="center" style="color:#ff69b4;">Salut ca etre moi •ᴗ•</h1>
+<h3 align="center" style="color:#ff69b4;">Ca etre etudiant 4️⃣2️⃣!</h3>
 
 
 ---

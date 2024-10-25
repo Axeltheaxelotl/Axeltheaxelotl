@@ -43,7 +43,7 @@
 
 ---
 
-## 📬 Me Contacter
+## Ca etre Discord
 
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">

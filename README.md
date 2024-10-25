@@ -25,10 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
 
-- 🔭 Actuellement, je travaille sur des projets de **développement logiciel** et **programmation système**.
-- 🌱 J'explore aussi les technologies **Rust**, **Docker**, et l'**intelligence artificielle**.
-- 💬 **Discutez avec moi** de programmation, de projets tech, et des nuances de rose 🌷 !
-- ⚡ **Fun Fact** : Je crois fermement que chaque ligne de code mérite une touche de rose !
+<!-- Contenu personnalisé de cette section laissé vide comme demandé -->
 
 ---
 
@@ -63,53 +60,12 @@
 
 ---
 
-## 💖 Projets en rose
-
-### [📟 ft_printf](https://github.com/VotreNomUtilisateur/ft_printf)
-
-> **Statut** : Terminé ✅
-
-- Une réimplémentation de `printf` en C pour comprendre la manipulation de chaînes et de formats.
-- **Technologies** : C, manipulation de mémoire, formatage de chaînes.
-
-### [🌐 Webserv](https://github.com/VotreNomUtilisateur/Webserv)
-
-> **Statut** : En cours ⏳
-
-- Développement d'un serveur HTTP léger, conforme au standard HTTP/1.1.
-- **Technologies** : C++, Réseaux, Protocoles HTTP.
-
-### [🎮 Cube3D](https://github.com/VotreNomUtilisateur/Cube3D)
-
-> **Statut** : En pause 🛑
-
-- Exploration du développement de jeu en 3D avec raycasting.
-- **Technologies** : C, OpenGL, Graphismes.
-
----
-
-## 🏆 Trophées GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=dracula&no-frame=true&title=MultiLanguage,Stars,Commit,PullRequest&title_color=ff69b4&column=4" alt="Trophées GitHub"/>
-</p>
-
----
-
-## ✨ Citation inspirante
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&color=ff69b4" alt="Citation inspirante"/>
-</p>
-
----
-
 ## 📬 Me Contacter
 
 <p align="center">
-  <a href="mailto:VotreEmail@example.com"><img src="https://img.icons8.com/clouds/100/ff69b4/email.png" alt="Email"/></a>
-  <a href="https://twitter.com/VotreProfil" target="_blank"><img src="https://img.icons8.com/clouds/100/ff69b4/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/VotreProfil/" target="_blank"><img src="https://img.icons8.com/clouds/100/ff69b4/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/VotreDiscordID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%23ff69b4.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
 ---

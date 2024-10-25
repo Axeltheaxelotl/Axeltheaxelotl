@@ -44,13 +44,12 @@
 </p>
 
 ---
-## 🌸 À propos de moi
 
 **🎖 Mentions spéciales de 42 🎖**
 
-| ![https://github.com/gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4?v=4&s=180) [CodeSensei42](https://github.com/CodeSensei42) <br> *Solution impossible, niveau expert* | ![LoopMaster3000](https://avatars.githubusercontent.com/u/87654321?v=4&s=40) [LoopMaster3000](https://github.com/LoopMaster3000) <br> *Boucles infinies garanties* | ![MallocQueen](https://avatars.githubusercontent.com/u/23456789?v=4&s=40) [MallocQueen](https://github.com/MallocQueen) <br> *mallocs mystiques depuis 2023* |
+| ![gabrielle-pch](https://avatars.githubusercontent.com/u/141566103?v=4&s=40) [gabrielle-pch](https://github.com/gabrielle-pch) <br> *Spécialiste des solutions élégantes* | ![Nowex214](https://avatars.githubusercontent.com/u/95699618?v=4&s=40) [Nowex214](https://github.com/Nowex214) <br> *Maître des commits légendaires* | ![fabiosilva24](https://avatars.githubusercontent.com/u/155982713?v=4&s=40) [fabiosilva24](https://github.com/fabiosilva24) <br> *Architecte de code ambitieux* |
 | --- | --- | --- |
-| ![DebugKnight42](https://avatars.githubusercontent.com/u/34567890?v=4&s=40) [DebugKnight42](https://github.com/DebugKnight42) <br> *Les bugs n'ont qu'à bien se tenir* | ![SegFaultHero](https://avatars.githubusercontent.com/u/45678901?v=4&s=40) [SegFaultHero](https://github.com/SegFaultHero) <br> *Super-héros des segfaults* | ![CompileWizard](https://avatars.githubusercontent.com/u/56789012?v=4&s=40) [CompileWizard](https://github.com/CompileWizard) <br> *Magie des compilations* |
+| ![MadaniBoualem](https://avatars.githubusercontent.com/u/122929009?v=4&s=40) [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Le perfectionniste infatigable* | ![nathoi](https://avatars.githubusercontent.com/u/185559580?v=4&s=40) [nathoi](https://github.com/nathoi) <br> *Guerrier des algorithmes* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=40) [maximwell](https://github.com/maximwell) <br> *Champion de la logique en C* |
 
 <!-- GIF de fin en rose -->
 <p align="center">

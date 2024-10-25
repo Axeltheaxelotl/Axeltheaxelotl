@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#ff69b4;">Salut 👋, je suis VotreNom</h1>
-<h3 align="center" style="color:#ff69b4;">Étudiant à 42, passionné de développement et amoureux du rose !</h3>
+<h1 align="center" style="color:#ff69b4;">Salut 👋, je suis Moi</h1>
+<h3 align="center" style="color:#ff69b4;">Étudiant à 42!</h3>
 
 
 ---

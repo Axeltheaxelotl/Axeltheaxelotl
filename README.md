@@ -46,7 +46,7 @@
 ## 📬 Me Contacter
 
 <p align="center">
-  <a href="https://discord.com/users/VotreDiscordID" target="_blank">
+  <a href="https://discord.com/users/1281282926515851324" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%23ff69b4.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
 </p>

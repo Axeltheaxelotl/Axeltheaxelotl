@@ -78,5 +78,4 @@
 
 ## 🎥 Vidéo de fin
 
-[Regarder la vidéo sur Pinterest](https://fr.pinterest.com/pin/3166662231972553/)
-
+[![Vidéo de fin](https://via.placeholder.com/480x270.png?text=Vid%C3%A9o+de+fin)](https://fr.pinterest.com/pin/3166662231972553/)

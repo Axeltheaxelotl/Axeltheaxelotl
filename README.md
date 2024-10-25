@@ -6,7 +6,7 @@
 
 ## 🌸 À propos de moi
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
+<img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" alt="GIF" width="300" style="border-radius: 10px;"/>
 
 <!-- Contenu personnalisé de cette section laissé vide comme demandé -->
 

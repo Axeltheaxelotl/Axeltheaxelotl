@@ -11,7 +11,7 @@
 
 <h3 align="left">À propos :</h3>
 <p align="left"> 
-  j'ai manger un 𝓚𝓲𝔀𝓲 maintenant il es partie 🥝
+  j'ai mangé un 𝓚𝓲𝔀𝓲 maintenant il est parti 🥝
 </p>
 
 <h3 align="left">Langages et outils :</h3>
@@ -32,9 +32,9 @@
 
 <h3 align="left">Projets en cours :</h3>
 <ul align="left">
-  <li>💻 <strong>ft_printf</strong>: j'ai finit j'les foutu dans le goinfre.</li>
-  <li>🌐 <strong>Webserv</strong>: J'ai pas encore commencer ta mere.</li>
-  <li>🎮 <strong>Cube3D</strong>: j les foutue dans le goinfre bordel</li>
+  <li>💻 <strong>ft_printf</strong>: j'ai fini j'les foutu dans le goinfre.</li>
+  <li>🌐 <strong>Webserv</strong>: J'ai pas encore commencé ta mere.</li>
+  <li>🎮 <strong>Cube3D</strong>: je l'ai foutu dans le goinfre bordel</li>
 </ul>
 
 <p align="center">
@@ -44,14 +44,14 @@
 <h3 align="left">Pourquoi collaborer avec moi ?</h3>
 <ul align="left">
   <li>✔️ je suis beau.</li>
-  <li>✔️ chatgpt prenium.</li>
+  <li>✔️ chatgpt premium.</li>
   <li>✔️ esque ta deja leché les deux boulles d'un mec.</li>
   <li>✔️ Toujours ouvert.</li>
 </ul>
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
-  <img src="https://i.pinimg.com/originals/94/ab/bb/94abbb320877025909c16413df70c193.gif" alt="GIF humoristique" width="100" style="vertical-align: middle; margin-left: 10px;" />  <h5 align="left">Bas non enft je suis a basic fritte H24.</h5>
+  <img src="https://i.pinimg.com/originals/94/ab/bb/94abbb320877025909c16413df70c193.gif" alt="GIF humoristique" width="100" style="vertical-align: middle; margin-left: 10px;" />  <h5 align="left">Bah non enft je suis a basic fritte H24.</h5>
 </p>
 
 

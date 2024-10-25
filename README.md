@@ -1,8 +1,3 @@
-<!-- En-tête avec une image de bienvenue en rose réduite -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Bienvenue" width="80%" style="max-height:200px; object-fit:cover;"/>
-</p>
-
 <h1 align="center" style="color:#ff69b4;">Salut 👋, je suis VotreNom</h1>
 <h3 align="center" style="color:#ff69b4;">Étudiant à 42, passionné de développement et amoureux du rose !</h3>
 

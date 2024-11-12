@@ -66,6 +66,9 @@
 | --- | --- | --- |
 | ![MadaniBoualem](https://avatars.githubusercontent.com/u/122929009?v=4&s=120) [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Arbre déforestation* | ![nathoi](https://avatars.githubusercontent.com/u/185559580?v=4&s=120) [nathoi](https://github.com/nathoi) <br> *int atoi(char *str)* | ![maximwell](https://avatars.githubusercontent.com/u/183663181?v=4&s=120) [maximwell](https://github.com/maximwell) <br> *Pyramide de Ponzi* |
 | ![SLDDL](https://avatars.githubusercontent.com/u/29633620?v=4&s=120) [SLDDL](https://github.com/SLDDL) <br> *artisant coiffeur* | ![pasqualerossi](https://avatars.githubusercontent.com/u/58959408?v=4&s=120) [pasqualerossi](https://github.com/pasqualerossi) <br> *Ça être dieu* | ![IanToujou](https://avatars.githubusercontent.com/u/44029196?v=4&s=120) [IanToujou](https://github.com/gabrielle-pch) <br> *gay comme simon* |
+| ![Edon](https://avatars.githubusercontent.com/u/186645423?v=4&s=120) [Edon](https://github.com/D4K0D4) <br> *zeub zeub zeub* | ![Angelo](https://avatars.githubusercontent.com/u/56460946?v=4&s=120) [Angelo](https://github.com/Xoppy) <br> *copilot* | ![Kptaine](https://avatars.githubusercontent.com/u/181274257?v=4&s=120) [Noe](https://github.com/KptaineN) <br> *. . .* |
+| ![newuser4](https://avatars.githubusercontent.com/u/000000004?v=4&s=120) [newuser4](https://github.com/newuser4) <br> *Ancien pro de Stack Overflow* | ![Rabiya-cly](https://avatars.githubusercontent.com/u/186232538?v=4&s=120) [Rabiya-Cyl](https://github.com/newuser5) <br> *ca etre dieu de la programmation* | ![newuser6](https://avatars.githubusercontent.com/u/000000006?v=4&s=120) [newuser6](https://github.com/newuser6) <br> ** |
+
 
 </div>
 

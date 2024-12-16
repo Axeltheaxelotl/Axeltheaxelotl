@@ -10,7 +10,7 @@
 
 ## 🛠️ Compétences de ca 🎈
 
-### 🍎 Langages de ca 🎈
+### 🍎 Langages de ca jaime les grosse teub 🎈
 
 ![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)

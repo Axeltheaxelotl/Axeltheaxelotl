@@ -74,7 +74,7 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.pinimg.com/564x/aa/6c/cd/aa6ccdeb76022930bca1570b85268d9e.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="file:///home/alanty/Downloads/Asian%20Woman%20Eats%20Live%20Tarantulas%20for%20Dinner.jpeg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

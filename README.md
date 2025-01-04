@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/ab/49/a8/ab49a81a1b193ccfbb39612b7f765294.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
-<h1 align="center" style="color:#FF0000;">Mais WESH 🍒•ᴗ•🍒 j1</h1>
+<h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>
 <h3 align="center" style="color:#FF0000;">🟥✴🔴etudiant 4️⃣2️⃣ et oui!🔴✴🟥</h3>
 
 ---
@@ -14,7 +14,7 @@
 
 ## 🛠️ Compétences 🎈
 
-### 🍎 Langages de ca jaime les grosse teubs 🎈
+### 🍎 Langages 🎈
 
 ![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)

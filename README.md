@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a3/af/f8/a3aff8d2527e4519187230678cc28e12.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>

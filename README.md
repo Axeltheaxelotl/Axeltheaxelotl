@@ -77,7 +77,7 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/63/b5/f0/63b5f09bac0844a97fd1e70914b4cbae.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://zip.slddl.zip/u/83osp0.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

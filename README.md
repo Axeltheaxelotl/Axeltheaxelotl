@@ -29,8 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%23FF0000.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-| ![Cadre Image](https://i.pinimg.com/736x/de/c5/76/dec5760ac6b3d86114e83ef18eac7893.jpg) |
-|:--------------------------------------------:|
 
 <div align="right">
   ![Cadre Image](https://i.pinimg.com/736x/de/c5/76/dec5760ac6b3d86114e83ef18eac7893.jpg)

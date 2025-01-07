@@ -77,7 +77,7 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://zip.slddl.zip/u/83osp0.gif" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://github.com/Axeltheaxelotl/42-Common-Core/blob/main/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/undefined-Imgur1-ezgif.com-optimize.gif?raw=true" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

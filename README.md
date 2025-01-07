@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/baccc322c8ea065e375d16b82bde5cf70115a8512f32b27c4a27c816fc15098a/68747470733a2f2f692e70696e696d672e636f6d2f373336782f61332f61662f66382f61336166663864323532376534353139313837323330363738636332386531322e6a7067" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://camo.githubusercontent.com/baccc322c8ea065e375d16b82bde5cf70115a8512f32b27c4a27c816fc15098a/68747470733a2f2f692e70696e696d672e636f6d2f373336782f61332f61662f66382f61336166663864323532376534353139313837323330363738636332386531322e6a7067" alt="Merci de visiter" width="100%" style="border-radius: 5px;"/>
 </p>
 
 <h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>
@@ -28,11 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23FF0000.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-
-<div align="right">
-  ![Cadre Image](https://i.pinimg.com/736x/de/c5/76/dec5760ac6b3d86114e83ef18eac7893.jpg)
-</div>
 
 </td>
       <td>

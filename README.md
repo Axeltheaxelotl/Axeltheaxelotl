@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/baccc322c8ea065e375d16b82bde5cf70115a8512f32b27c4a27c816fc15098a/68747470733a2f2f692e70696e696d672e636f6d2f373336782f61332f61662f66382f61336166663864323532376534353139313837323330363738636332386531322e6a7067" alt="Merci de visiter" width="70%" style="border-radius: 10px;"/>
-</p>
-
 <h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>
 <h3 align="center" style="color:#FF0000;">🟥✴🔴etudiant 4️⃣2️⃣ et oui!🔴✴🟥</h3>
 
@@ -71,7 +67,7 @@
 | <img src="https://avatars.githubusercontent.com/u/122929009?v=4&s=120" width="120" height="120"> [MadaniBoualem](https://github.com/MadaniBoualem) <br> *Arbre déforestation* | <img src="https://avatars.githubusercontent.com/u/185559580?v=4&s=120" width="120" height="120"> [nathoi](https://github.com/nathoi) <br> *int atoi(char *str)* | <img src="https://avatars.githubusercontent.com/u/183663181?v=4&s=120" width="120" height="120"> [maximwell](https://github.com/maximwell) <br> *maxime sans e = maxim* |
 | <img src="https://avatars.githubusercontent.com/u/29633620?v=4&s=120" width="120" height="120"> [SLDDL](https://github.com/SLDDL) <br> *artisant coiffeur* | <img src="https://avatars.githubusercontent.com/u/58959408?v=4&s=120" width="120" height="120"> [pasqualerossi](https://github.com/pasqualerossi) <br> *Ça être dieu* | <img src="https://avatars.githubusercontent.com/u/44029196?v=4&s=120" width="120" height="120"> [IanToujou](https://github.com/joaorodrigues3099) <br> *gay comme simon* |
 | <img src="https://avatars.githubusercontent.com/u/186645423?v=4&s=120" width="120" height="120"> [Edon](https://github.com/D4K0D4) <br> *zeub zeub zeub* | <img src="https://avatars.githubusercontent.com/u/56460946?v=4&s=120" width="120" height="120"> [Angelo](https://github.com/Xoppy) <br> *copilot* | <img src="https://avatars.githubusercontent.com/u/181274257?v=4&s=120" width="120" height="120"> [Noe](https://github.com/KptaineN) <br> *. . .* |
-| <img src="https://avatars.githubusercontent.com/u/185348589?v=4&s=120" width="120" height="120"> [Helsanto](https://github.com/Helsanto) <br> *bresilien juif ca s annule je mange du porc* | <img src="https://i.pinimg.com/736x/de/c5/76/dec5760ac6b3d86114e83ef18eac7893.jpg" width="120" height="120"> [Rabiya-Cyl](https://github.com/newuser5) <br> *ca etre dieu de la programmation* | <img src="https://avatars.githubusercontent.com/u/000000006?v=4&s=120" width="120" height="120"> [newuser6](https://github.com/newuser6) <br> ** |
+| <img src="https://avatars.githubusercontent.com/u/185348589?v=4&s=120" width="120" height="120"> [Helsanto](https://github.com/Helsanto) <br> *bresilien juif ca s annule je mange du porc* | <img src="" width="120" height="120"> [Rabiya-Cyl](https://github.com/newuser5) <br> *ca etre dieu de la programmation* | <img src="https://avatars.githubusercontent.com/u/000000006?v=4&s=120" width="120" height="120"> [newuser6](https://github.com/newuser6) <br> ** |
 
 </div>
 <!-- GIF de fin en rouge -->

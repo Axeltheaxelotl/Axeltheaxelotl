@@ -76,7 +76,7 @@
 </div>
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://github.com/Axeltheaxelotl/42-Common-Core/blob/main/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/undefined-Imgur1-ezgif.com-optimize.gif?raw=true" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/fb/12/5a/fb125a78a18062542c439272b50efc60.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

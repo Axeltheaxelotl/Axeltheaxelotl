@@ -80,7 +80,7 @@
 </div>
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/fb/12/5a/fb125a78a18062542c439272b50efc60.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---

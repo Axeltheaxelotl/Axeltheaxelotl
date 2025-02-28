@@ -62,7 +62,7 @@
 
 ---
 
-## 🩸🎖 Mentions honorable 🎖🩸
+## 🩸🎖 Pokedex de 42 🎖🩸
 
 <div align="center">
 

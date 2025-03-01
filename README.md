@@ -11,6 +11,11 @@
 
 ---
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
 ## 🛠️ Compétences 🎈
 
 ### 🍎 Langages 🎈
@@ -35,6 +40,7 @@
     </tr>
   </table>
 </div>
+
 
 
 ---

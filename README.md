@@ -91,7 +91,7 @@
 
 ## 🩸🎖 Sam core 🎖🩸
 
-<div align="right">
+<div align="left">
   <table>
     <tr>
       <td>

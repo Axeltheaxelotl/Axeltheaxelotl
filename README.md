@@ -3,20 +3,12 @@
 </h1>
 
 
-
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <!-- Image de côté gauche -->
-  <div style="width: 50px; height: auto; background-image: url('https://i.pinimg.com/originals/3b/d4/85/3bd4851485e129a642496978fc0386f3.gif'); background-size: cover; background-position: center;"></div>
-
-  <!-- Image cliquable au centre -->
+<p>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
     <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
          alt="Sigma Boy" 
          style="width: 300px; height: 150px; object-fit: cover;">
   </a>
-
-  <!-- Image de côté droit -->
-  <div style="width: 50px; height: auto; background-image: url('https://i.pinimg.com/originals/3b/d4/85/3bd4851485e129a642496978fc0386f3.gif'); background-size: cover; background-position: center;"></div>
 </p>
 
 

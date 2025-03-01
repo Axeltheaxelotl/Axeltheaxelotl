@@ -123,10 +123,16 @@
 <br>
 
 <!-- Table with all public repositories and a link to the MIT repository -->
-<table align="center">
+<table align="center" style="width: 90%; max-width: 1000px; border-collapse: collapse;">
   <tr>
-    <th>Repository Name</th>
-    <th>Link</th>
+    <th style="width: 50%; padding: 10px;">Image</th>
+    <th style="width: 50%; padding: 10px;">Repository Name</th>
+    <th style="width: 50%; padding: 10px;">Link</th>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center; padding: 10px;">
+      <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+    </td>
   </tr>
   <tr>
     <td><strong>42-Common-Core</strong></td>
@@ -157,6 +163,7 @@
     <td><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
   </tr>
 </table>
+
 
 
 <br>

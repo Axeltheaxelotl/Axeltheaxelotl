@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=4" alt="Trophées GitHub" width="50%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=8" alt="Trophées GitHub" width="75%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 

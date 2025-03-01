@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-issue-labels-card?username=Axeltheaxelotl&theme=radical" alt="Most Issue Labels" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axeltheaxelotl&repo=nom_du_repertoire&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Popular Repositories" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="50%"/>
 </p>
 

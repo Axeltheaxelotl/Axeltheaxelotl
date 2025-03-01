@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="font-size: 24px; margin-right: 5px;">Sigma Boy</span>
+  <span style="font-size: 214px; margin-right: 5px;">Sigma Boy</span>
   <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
        alt="Sigma Boy" 
        style="width: 150px; height: auto;">

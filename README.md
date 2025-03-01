@@ -119,8 +119,8 @@
 
 <table align="center" style="width: 100%; max-width: 1200px; border-collapse: collapse; padding: 0 100px;">
   <tr>
-    <th style="width: 70%; padding: 15px;">Repository Name</th>
-    <th style="width: 30%; padding: 15px;">Link</th>
+    <th style="width: 70%; padding: 15px; text-align: center;">Repository Name</th>
+    <th style="width: 30%; padding: 15px; text-align: center;">Link</th>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 20px;">
@@ -128,35 +128,34 @@
     </td>
   </tr>
   <tr>
-    <td><strong>42-Common-Core</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>42-Common-Core</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>boite-a-foutre</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>boite-a-foutre</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>CPP</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>CPP</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>d_formatter_42</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>d_formatter_42</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>skills-copilot-codespaces-vscode</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>skills-copilot-codespaces-vscode</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>Piscine_42</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">View Repo</a></td>
+    <td style="text-align: center;"><strong>Piscine_42</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">View Repo</a></td>
   </tr>
   <tr>
-    <td><strong>MIT Repository</strong></td>
-    <td><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
+    <td style="text-align: center;"><strong>MIT Repository</strong></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
   </tr>
 </table>
-
 
 
 <br>

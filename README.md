@@ -4,12 +4,13 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
+    <span style="font-size: 24px; margin-right: 10px;">Sigma Boy</span>
     <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
          alt="Sigma Boy" 
-         style="width: 50px; height: auto;">
+         style="width: 150px; height: auto;">
+    <span style="font-size: 24px; margin-left: 10px;">Sigma Boy</span>
   </a>
-</p> 
-
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="80%" style="border-radius: 10px;"/>

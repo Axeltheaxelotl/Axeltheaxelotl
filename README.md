@@ -1,6 +1,6 @@
-<p align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
   LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
-</p>
+</h1>
 
 <h1 align="center">
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">

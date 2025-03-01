@@ -114,6 +114,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Axeltheaxelotl?tab=repositories" target="_blank">
+    <strong>See all my repositories here!</strong>
+  </a>
+</p>
+
 <br>
 
 ## 🩸🎖 Sam core 🎖🩸

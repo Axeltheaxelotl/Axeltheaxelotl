@@ -125,7 +125,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
-      <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+      <img src="https://i.pinimg.com/originals/04/47/f3/0447f30cec49d4d6bcd44704c737c3ad.gif" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
     </td>
   </tr>
   <tr>

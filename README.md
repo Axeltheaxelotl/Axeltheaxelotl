@@ -15,7 +15,7 @@
   <!-- Image à gauche -->
   <img src="https://i.pinimg.com/originals/3b/d4/85/3bd4851485e129a642496978fc0386f3.gif" 
        alt="GIF" 
-       style="height: 150px; object-fit: cover; margin-right: 10px;">
+       style="height: 150px; object-fit: cover; margin-right: 10px; vertical-align: middle;">
   
   <!-- Image principale -->
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
@@ -27,8 +27,9 @@
   <!-- Image à droite -->
   <img src="https://i.pinimg.com/originals/3b/d4/85/3bd4851485e129a642496978fc0386f3.gif" 
        alt="GIF" 
-       style="height: 150px; object-fit: cover; margin-left: 10px;">
+       style="height: 150px; object-fit: cover; margin-left: 10px; vertical-align: middle;">
 </div>
+
 
 
 <br>

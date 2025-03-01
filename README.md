@@ -87,10 +87,11 @@
 
 ---
 
+<br>
 
 ## 🩸🎖 Sam core 🎖🩸
 
-<div align="center">
+<div align="right">
   <table>
     <tr>
       <td>

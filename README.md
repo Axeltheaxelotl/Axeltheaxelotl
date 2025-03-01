@@ -69,7 +69,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=8&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Langages les plus utilisés" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Langues avec Pourcentages" width="50%"/>
 </p>
 
 <p align="center">

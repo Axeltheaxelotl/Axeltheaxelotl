@@ -91,19 +91,6 @@
   <table>
     <tr>
       <td>
-        <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
-      </td>
-      <td>
-        <img src="https://i.pinimg.com/736x/c7/a6/5d/c7a65dd9141e4af3771478579141b715.jpg" width="150" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
         <img src="https://i.pinimg.com/736x/16/0c/ff/160cff798e3585b4ae73799c91c5c8b8.jpg" width="150" />
       </td>
       <td>

@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Langues avec Pourcentages" width="50%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=7" alt="Trophées GitHub" width="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="50%"/>
 </p>
 

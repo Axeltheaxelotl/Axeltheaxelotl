@@ -2,7 +2,6 @@
   LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
 </h1>
 
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="150px" style="border-radius: 10px;"/>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
@@ -13,8 +12,8 @@
   <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="150px" style="border-radius: 10px;"/>
 </p>
 
-
-
+<h1>
+</h1
 
 <br>
 

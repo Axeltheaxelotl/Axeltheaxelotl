@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
-  LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
+  LE GITHUB D'UN SIGMA 🤫🧏‍♂️  
 </h1>
 
 <p align="center">

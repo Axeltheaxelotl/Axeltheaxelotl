@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="70%" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>
@@ -91,24 +91,24 @@
 
 ## 🩸🎖 Sam core 🎖🩸
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://i.pinimg.com/736x/16/0c/ff/160cff798e3585b4ae73799c91c5c8b8.jpg" width="150" />
+        <img src="https://i.pinimg.com/736x/16/0c/ff/160cff798e3585b4ae73799c91c5c8b8.jpg" width="200" />
       </td>
       <td>
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/c7/a6/5d/c7a65dd9141e4af3771478579141b715.jpg" width="150" />
+        <img src="https://i.pinimg.com/736x/c7/a6/5d/c7a65dd9141e4af3771478579141b715.jpg" width="200" />
       </td>
     </tr>
   </table>
 </div>
 
 
-<div align="center">
+<div align="left">
   <p>🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
   <p>𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
   <p>𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>

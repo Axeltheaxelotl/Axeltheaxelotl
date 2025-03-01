@@ -74,6 +74,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&count_private=true&hide_title=true&hide=prs&icon_color=FF0000&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Stars" width="48%" />
 </p>
 
 <p align="center">

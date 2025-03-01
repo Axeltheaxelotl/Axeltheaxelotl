@@ -35,7 +35,7 @@
 
 </td>
       <td>
-        <img src="https://i.pinimg.com/736x/d3/39/cc/d339cc9192574e93c281bd90019788fe.jpg" width="170" />
+        <img src="https://i.pinimg.com/736x/d3/39/cc/d339cc9192574e93c281bd90019788fe.jpg" width="180" />
       </td>
     </tr>
   </table>

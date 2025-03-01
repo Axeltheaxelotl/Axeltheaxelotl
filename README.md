@@ -117,13 +117,13 @@
 
 <br>
 
-<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; padding: 0 20px;">
+<table align="center" style="width: 100%; max-width: 1200px; border-collapse: collapse; padding: 0 50px;">
   <tr>
-    <th style="width: 60%; padding: 10px;">Repository Name</th>
-    <th style="width: 40%; padding: 10px;">Link</th>
+    <th style="width: 70%; padding: 15px;">Repository Name</th>
+    <th style="width: 30%; padding: 15px;">Link</th>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; padding: 10px;">
+    <td colspan="2" style="text-align: center; padding: 20px;">
       <img src="https://i.pinimg.com/originals/04/47/f3/0447f30cec49d4d6bcd44704c737c3ad.gif" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
     </td>
   </tr>

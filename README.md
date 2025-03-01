@@ -94,12 +94,11 @@
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/d3/39/cc/d339cc9192574e93c281bd90019788fe.jpg" width="150" />
+        <img src="https://i.pinimg.com/736x/c7/a6/5d/c7a65dd9141e4af3771478579141b715.jpg" width="150" />
       </td>
     </tr>
   </table>
 </div>
-
 
 <div align="center">
   <p>🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>

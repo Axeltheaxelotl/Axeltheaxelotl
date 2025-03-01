@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank" style="text-decoration: none; color: inherit;">
-    https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg
+    "https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg"
   </a>
    <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" alt="Sigma Boy" style="width: 50px; height: auto; vertical-align: middle; margin-left: 10px;">
 </p>

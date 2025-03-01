@@ -1,12 +1,15 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
   LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
 </h1>
+Log in
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
-       alt="Sigma Boy" 
-       style="width: 150px; height: auto;">
-</p>
+  <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
+    <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
+         alt="Sigma Boy" 
+         style="width: 50px; height: auto;">
+  </a>
+</p> 
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="80%" style="border-radius: 10px;"/>

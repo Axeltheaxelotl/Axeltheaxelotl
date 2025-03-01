@@ -41,6 +41,37 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+## 🛠️ Compétences 🎈
+
+### 🍎 Langages 🎈
+
+![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23FF0000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+
+### 🧰 Outils et Technologies 🎈
+
+![Linux](https://img.shields.io/badge/Linux-%23FF0000.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23FF0000.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+</td>
+      <td>
+        <img src="https://i.pinimg.com/736x/d3/39/cc/d339cc9192574e93c281bd90019788fe.jpg" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 ## 📊 Statistiques GitHub 🎈

@@ -113,12 +113,40 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Axeltheaxelotl?tab=repositories" target="_blank">
-    <strong>See all my repositories here!</strong>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <th>Repository Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>42-Common-Core</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>boite-a-foutre</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>CPP</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>d_formatter_42</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>skills-copilot-codespaces-vscode</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Piscine_42</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>MIT Repository</strong></td>
+    <td><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
+  </tr>
+</table>
 
 <br>
 

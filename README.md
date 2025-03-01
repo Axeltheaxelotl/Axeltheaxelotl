@@ -73,8 +73,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=7&no-frame=true" alt="Trophées GitHub" style="display: inline-block; text-align: center;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="50%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=7&no-frame=true" alt="Trophées GitHub" style="display: inline-block; text-align: left;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
 

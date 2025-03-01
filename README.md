@@ -117,7 +117,7 @@
 
 <br>
 
-<table align="center" style="width: 100%; max-width: 1200px; border-collapse: collapse; padding: 0 100px;">
+<table align="center" style="width: 100%; max-width: 200px; border-collapse: collapse; padding: 0 100px;">
   <tr>
     <th style="width: 70%; padding: 15px; text-align: center;">Repository Name</th>
     <th style="width: 30%; padding: 15px; text-align: center;">Link</th>

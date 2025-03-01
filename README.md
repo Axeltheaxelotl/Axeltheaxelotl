@@ -117,10 +117,10 @@
 
 <br>
 
-<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
+<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; padding: 0 20px;">
   <tr>
-    <th style="width: 50%; padding: 10px;">Repository Name</th>
-    <th style="width: 50%; padding: 10px;">Link</th>
+    <th style="width: 60%; padding: 10px;">Repository Name</th>
+    <th style="width: 40%; padding: 10px;">Link</th>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 10px;">
@@ -156,7 +156,6 @@
     <td><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
   </tr>
 </table>
-
 
 
 <br>

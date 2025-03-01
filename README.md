@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p style="display: flex; justify-content: space-between;">
+<p style="display: flex;">
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
     <img src="https://i.pinimg.com/originals/3b/d4/85/3bd4851485e129a642496978fc0386f3.gif" 
          alt="Sigma Boy" 
@@ -23,6 +23,7 @@
          style="width: 300px; height: 150px; object-fit: cover;">
   </a>
 </p>
+
 
 <br>
 

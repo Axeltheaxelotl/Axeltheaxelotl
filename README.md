@@ -77,23 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=Axeltheaxelotl&theme=radical" alt="Most Commit Language" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity-card?username=Axeltheaxelotl&theme=radical" alt="Commit Activity" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=Axeltheaxelotl&theme=radical" alt="Pull Requests" width="50%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&count_private=true&hide_title=true&hide=prs&icon_color=FF0000&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Stars" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Axeltheaxelotl&bg_color=0d1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 

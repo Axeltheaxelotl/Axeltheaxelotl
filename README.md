@@ -117,8 +117,7 @@
 
 <br>
 
-<!-- Table with all public repositories and a link to the MIT repository -->
-<table align="center" style="width: 90%; max-width: 1000px; border-collapse: collapse;">
+<table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
   <tr>
     <th style="width: 50%; padding: 10px;">Repository Name</th>
     <th style="width: 50%; padding: 10px;">Link</th>
@@ -157,6 +156,7 @@
     <td><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
   </tr>
 </table>
+
 
 
 <br>

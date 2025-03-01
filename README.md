@@ -4,14 +4,15 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="30%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="150px" style="border-radius: 10px;"/>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
     <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
          alt="Sigma Boy" 
-         style="width: 300px; height: 150px; object-fit: cover;">
+         style="height: 150px; width: auto; object-fit: cover;">
   </a>
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="30%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="150px" style="border-radius: 10px;"/>
 </p>
+
 
 
 

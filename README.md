@@ -12,8 +12,8 @@
 </p>
 
 <p align="center"">
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="80%" style="border-radius: 10px;"/>
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="80%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="30%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" width="30%" style="border-radius: 10px;"/>
 </p>
 
 

@@ -109,7 +109,6 @@
 
 <div align="center">
   <table>
-      <td>
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>

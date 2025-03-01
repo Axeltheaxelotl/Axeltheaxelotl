@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="200px" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
     <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
          alt="Sigma Boy" 
-         style="height: 200px; width: auto; object-fit: cover;">
+         style="height: 300px; width: auto; object-fit: cover;">
   </a>
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="200px" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
 </p>
 
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+<h1 align="left" style="font-family: 'Courier New', monospace; font-size: 1em; color: #333;">
   Sigma Boy, sigma boy, sigma boy, sigma boy,<br>
   Kazhdaya devushka khochet tanets s toboi.
 </h1>

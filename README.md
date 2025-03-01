@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank" style="text-decoration: none; color: inherit;">
     🎵
   </a>
-  <img src="https://img.youtube.com/vi/rduZaIoF--o/0.jpg" alt="Sigma Boy" style="width: 80px; height: auto; vertical-align: middle; margin-left: 17px;">
+  <img src="https://img.youtube.com/vi/rduZaIoF--o/0.jpg" alt="Sigma Boy" style="width: 100px; height: auto; vertical-align: middle; margin-left: 20px;">
 </h1>
 
 

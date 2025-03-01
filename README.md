@@ -107,12 +107,6 @@
 | <img src="https://i.pinimg.com/236x/95/9b/70/959b700242bdb84a5458f5525e0ba7c9.jpg?v=4&s=120" width="120" height="120"> [Helsanto](https://github.com/Helsanto) <br> *juif - bresilien = mange du porc* | <img src="https://i.pinimg.com/736x/08/0e/1f/080e1fe716450af25ed4defb029f22cf.jpg" width="120" height="120"> [Rabiya-Cyl](https://github.com/Rabiya-cyl) <br> *🇹🇷🇹🇷👩🏼‍❤️‍💋‍👩🏻🇹🇷🇹🇷* | <img src="https://i.pinimg.com/736x/73/00/ce/7300cea6a39fcc52ff9e800e7c5d0a4e.jpg?v=4&s=120" width="120" height="120"> [Charlotte aux fraises](https://github.com/M3ph1st0p3l3s) <br> *tana* |
 
 </div>
-<!-- GIF de fin en rouge -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
-</p>
-
----
 
 <!-- GIF de fin en rouge -->
 <p align="center">

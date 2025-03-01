@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/6f/4a/c8/6f4ac82dced623874db35fd86692931e.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
     <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
          alt="Sigma Boy" 
          style="height: 300px; width: auto; object-fit: cover;">
   </a>
-  <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/originals/6f/4a/c8/6f4ac82dced623874db35fd86692931e.gif" alt="Merci de visiter" height="300px" style="border-radius: 10px;"/>
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace; font-size: 1em; color: #333;">

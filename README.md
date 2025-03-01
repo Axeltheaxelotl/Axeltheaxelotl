@@ -113,10 +113,20 @@
 </p>
 
 ---
-<table align="center">
+<p align="center">
+  <img src="https://your-image-link.com" alt="Image" width="100%" style="border-radius: 10px;"/>
+</p>
+
+<!-- Table with all public repositories and a link to the MIT repository, wide and centered -->
+<table align="center" width="100%" style="border-collapse: collapse; margin-top: 20px;">
   <tr>
-    <th>Repository Name</th>
-    <th>Link</th>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <strong>All Public Repositories</strong>
+    </td>
+  </tr>
+  <tr>
+    <th style="width: 50%; padding: 10px; background-color: #f2f2f2;">Repository Name</th>
+    <th style="width: 50%; padding: 10px; background-color: #f2f2f2;">Link</th>
   </tr>
   <tr>
     <td><strong>42-Common-Core</strong></td>

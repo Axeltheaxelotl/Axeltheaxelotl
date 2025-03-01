@@ -10,9 +10,8 @@
 
 <br>
 
-
 <p align="center">
-  <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="80%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Merci de visiter" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>

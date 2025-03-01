@@ -2,13 +2,13 @@
   LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
 </h1>
 
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
-  LE GITHUB D'UN SIGMA BOY 🤫🧏‍♂️  
-  <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank" style="text-decoration: none; color: inherit;">
-    🎵
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank">
+    <img src="https://i.pinimg.com/736x/61/9f/15/619f15fec9d3f8360dd109d1e878fcca.jpg" 
+         alt="Sigma Boy" 
+         style="width: 50px; height: auto;">
   </a>
-  <img src="https://img.youtube.com/vi/rduZaIoF--o/0.jpg" alt="Sigma Boy" style="width: 50px; height: auto; vertical-align: middle; margin-left: 10px;">
-</h1>
+</p> 
 
 
 <p align="center">

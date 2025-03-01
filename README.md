@@ -12,6 +12,11 @@
   <img src="https://i.pinimg.com/originals/86/0a/4d/860a4de07c197d71a1a888994852fd27.gif" alt="Merci de visiter" height="200px" style="border-radius: 10px;"/>
 </p>
 
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+  Sigma Boy, sigma boy, sigma boy, sigma boy,<br>
+  Kazhdaya devushka khochet tanets s toboi.
+</h1>
+
 <h1>
 </h1
 

@@ -153,13 +153,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://i.pinimg.com/736x/16/0c/ff/160cff798e3585b4ae73799c91c5c8b8.jpg" width="200" />
-      </td>
-      <td>
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/c7/a6/5d/c7a65dd9141e4af3771478579141b715.jpg" width="200" />
+        <img src="https://i.pinimg.com/736x/bc/05/95/bc0595b8e30ee20a2e9871f93e01016f.jpg" width="200" />
       </td>
     </tr>
   </table>

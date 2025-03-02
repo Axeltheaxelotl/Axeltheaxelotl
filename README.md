@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+z<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank" style="text-decoration: none; color: #333;">
     LE GITHUB D'UN SIGMA 🤫🧏‍♂️
   </a>
@@ -152,11 +152,14 @@
 <div align="center">
   <table>
     <tr>
+        <td>
+         <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" width="200" />
+        </td>
       <td>
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/bc/05/95/bc0595b8e30ee20a2e9871f93e01016f.jpg" width="200" />
+        <img src="https://camo.githubusercontent.com/6ae0af0352ad2f5dbce7714e2e4eecd12804711b9660803d9928dfc5f0c6d045/68747470733a2f2f692e70696e696d672e636f6d2f373336782f63372f61362f35642f63376136356464393134316534616633373731343738353739313431623731352e6a7067" width="200" />
       </td>
     </tr>
   </table>

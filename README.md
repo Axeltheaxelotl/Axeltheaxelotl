@@ -146,6 +146,67 @@
   </tr>
 </table>
 
+
+
+
+
+<table align="center" style="width: 100%; max-width: 200px; border-collapse: collapse; padding: 0 100px;">
+  <tr>
+    <th style="width: 70%; padding: 15px; text-align: center;">Repository Name</th>
+    <th style="width: 30%; padding: 15px; text-align: center;">Link</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 20px;">
+      <img src="https://i.pinimg.com/originals/a4/f9/ce/a4f9ced88332ea2693e132ddde33ee02.gif" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>CPP</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>Piscine_42</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">View Repo</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>MIT Repository</strong>
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
+  </tr>
+</table>
+
+
+
+
 <br>
 
 ## 🩸🎖 Sam core 🎖🩸

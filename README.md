@@ -16,7 +16,7 @@
 
 <h1 align="center" style="color:#FF0000;">BONSOIR •ᴗ•</h1>
 <h3 align="center" style="color:#FF0000;">etudiant 4️⃣2️⃣ minsallah! 
-  ➡️ <a href="https://www.alanty.com" style="color: #0000FF; text-decoration: none;">Alanty</a>
+  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
 </h3>
 
 ---

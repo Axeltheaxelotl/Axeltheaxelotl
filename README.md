@@ -162,7 +162,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+      <img src="https://i.pinimg.com/474x/cf/d9/15/cfd9158b7522c00082a803701faa94fc.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
   </tr>

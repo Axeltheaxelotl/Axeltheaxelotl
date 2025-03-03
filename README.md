@@ -9,7 +9,9 @@
 </h1
 
 <br>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/a3/69/2da369439de7626c294fc2712882ee68.gif" alt="Sam et sa cousine" style="width:1000px; height:500px;">
+</p>
 <p align="center">
   <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;">
 </p>

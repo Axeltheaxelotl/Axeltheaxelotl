@@ -146,6 +146,50 @@
   </tr>
 </table>
 
+<table align="center" style="width: 100%; max-width: 600px; border-collapse: collapse; padding: 20px;">
+  <thead>
+    <tr>
+      <th style="padding: 10px 20px; text-align: center; background-color: #4CAF50; color: white; border-radius: 8px 8px 0 0;">Repository Name</th>
+      <th style="padding: 10px 20px; text-align: center; background-color: #4CAF50; color: white; border-radius: 8px 8px 0 0;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 20px;">
+        <img src="https://i.pinimg.com/originals/a4/f9/ce/a4f9ced88332ea2693e132ddde33ee02.gif" alt="Image" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>42-Common-Core</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>boite-a-foutre</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>CPP</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>d_formatter_42</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>skills-copilot-codespaces-vscode</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>Piscine_42</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><strong>MIT Repository</strong></td>
+      <td style="text-align: center; padding: 12px 20px; background-color: #f9f9f9; border: 1px solid #ddd;"><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">View MIT Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <br>
 

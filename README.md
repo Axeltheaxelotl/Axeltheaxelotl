@@ -1,4 +1,4 @@
-z<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
+<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em; color: #333;">
   <a href="https://www.youtube.com/watch?v=rduZaIoF--o" target="_blank" style="text-decoration: none; color: #333;">
     LE GITHUB D'UN SIGMA 🤫🧏‍♂️
   </a>
@@ -14,8 +14,8 @@ z<h1 align="center" style="font-family: 'Courier New', monospace; font-size: 2em
 </p>
 
 
-<h1 align="center" style="color:#FF0000;">BONSOIR 🍒•ᴗ•🍒</h1>
-<h3 align="center" style="color:#FF0000;">🟥✴🔴etudiant 4️⃣2️⃣ minsallah!🔴✴🟥</h3>
+<h1 align="center" style="color:#FF0000;">BONSOIR •ᴗ•</h1>
+<h3 align="center" style="color:#FF0000;">etudiant 4️⃣2️⃣ minsallah!</h3>
 
 ---
 

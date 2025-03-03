@@ -162,45 +162,39 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/474x/cf/d9/15/cfd9158b7522c00082a803701faa94fc.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+      <img src="https://i.pinimg.com/736x/de/cd/2d/decd2d7de5b5b67bf0cf14d05739574a.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+      <img src="https://i.pinimg.com/736x/d5/b1/ee/d5b1ee043c6742daeb07f5d12d48591b.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>CPP</strong>
+      <img src="https://i.pinimg.com/736x/03/81/00/0381000cffe1f77a2d883c7258e126d5.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>CPP</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      <img src="https://i.pinimg.com/736x/2a/d3/8f/2ad38f9b31ace7147236459638d8802b.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+      <img src="https://i.pinimg.com/736x/dd/70/9c/dd709c1798ed08fbd062ab8f41856054.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>Piscine_42</strong>
+      <img src="https://i.pinimg.com/736x/6f/14/49/6f144916cb430c5e3837f3a88a406234.jpg" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>Piscine_42</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">View Repo</a></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://example.com/icon.png" alt="Icon" style="width: 15px; vertical-align: middle;"/> <strong>MIT Repository</strong>
-    </td>
-    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/MIT" target="_blank">View MIT Repo</a></td>
   </tr>
 </table>
 

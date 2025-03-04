@@ -174,13 +174,13 @@
 
 <p style="text-align: center; margin-bottom: 20px; font-size: 24px; font-weight: bold;">simon core</p>
 
-<table style="margin: 0 auto;">
+<table style="margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
   <tr>
-    <!-- Colonne de gauche : image -->
-    <td style="padding: 10px;">
+    <!-- Colonne de gauche : image avec écart -->
+    <td style="padding-right: 100px; padding: 10px 100px 10px 10px; border: 1px solid #ccc;">
       <img src="https://i.pinimg.com/736x/65/bc/80/65bc80c015da40d4ed83b5a6373ab925.jpg" alt="Image" style="width: 200px; border-radius: 10px;">
     </td>
-    <td style="padding: 10px;">
+    <td style="padding: 10px; border: 1px solid #ccc;">
       <div>
         <p style="text-align: center;">🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
         <p style="text-align: center;">𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
@@ -190,5 +190,6 @@
     </td>
   </tr>
 </table>
+
 
 

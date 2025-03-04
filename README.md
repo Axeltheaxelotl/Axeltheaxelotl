@@ -174,19 +174,21 @@
 
 <p style="text-align: center; margin-bottom: 20px; font-size: 24px; font-weight: bold;">simon core</p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Image à gauche -->
-  <img src="https://i.pinimg.com/736x/65/bc/80/65bc80c015da40d4ed83b5a6373ab925.jpg" alt="Image" style="width: 200px; border-radius: 10px;">
-
-  <!-- Texte à droite -->
-  <div>
-    <p style="text-align: center;">🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
-    <p style="text-align: center;">𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
-    <p style="text-align: center;">𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>
-    <p style="text-align: center;">𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸</p>
-  </div>
-
-</div>
+<table style="margin: 0 auto;">
+  <tr>
+    <!-- Colonne de gauche : image -->
+    <td style="padding: 10px;">
+      <img src="https://i.pinimg.com/736x/65/bc/80/65bc80c015da40d4ed83b5a6373ab925.jpg" alt="Image" style="width: 200px; border-radius: 10px;">
+    </td>
+    <td style="padding: 10px;">
+      <div>
+        <p style="text-align: center;">🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
+        <p style="text-align: center;">𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
+        <p style="text-align: center;">𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>
+        <p style="text-align: center;">𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 

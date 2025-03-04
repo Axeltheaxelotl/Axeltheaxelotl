@@ -173,21 +173,61 @@
 </div>
 <p align="center"><strong>simon core</strong></p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/736x/65/bc/80/65bc80c015da40d4ed83b5a6373ab925.jpg" width="200px">
-    </td>
-    <td>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
 
-🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈  
-𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒  
-𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇  
-𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸  
+  <!-- Ton tableau -->
+  <table align="center" style="width: 100%; max-width: 200px; border-collapse: collapse; padding: 0 100px;">
+    <tr>
+      <th style="width: 70%; padding: 15px; text-align: center;">Repository Name</th>
+      <th style="width: 30%; padding: 15px; text-align: center;">Link</th>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 20px;">
+        <img src="https://i.pinimg.com/originals/a4/f9/ce/a4f9ced88332ea2693e132ddde33ee02.gif" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/de/cd/2d/decd2d7de5b5b67bf0cf14d05739574a.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/d5/b1/ee/d5b1ee043c6742daeb07f5d12d48591b.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/03/81/00/0381000cffe1f77a2d883c7258e126d5.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>CPP</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/2a/d3/8f/2ad38f9b31ace7147236459638d8802b.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/dd/70/9c/dd709c1798ed08fbd062ab8f41856054.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/6f/14/49/6f144916cb430c5e3837f3a88a406234.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>Piscine_42</strong>
+      </td>
+      <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">🔗🖱️ View Repo</a></td>
+    </tr>
+  </table>
 
-    </td>
-  </tr>
-</table>
+  <!-- Image à droite -->
+  <img src="https://i.pinimg.com/originals/1a/2b/3c/1a2b3c4d5e6f7g8h9i0j.jpg" alt="Image à droite" style="width: 150px; border-radius: 10px;"/>
+
+</div>
 
 
 

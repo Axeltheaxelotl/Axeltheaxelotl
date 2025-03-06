@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/github/followers/Axeltheaxelotl?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Axeltheaxelotl?label=Stars&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Axeltheaxelotl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SLDDL" />
+
 <br>
 <p align="center">
   <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;">

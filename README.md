@@ -14,6 +14,16 @@
   ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
 </h3>
 
+<h1 align="center" style="color:#FF0000;">BONSOIR •ᴗ•</h1>
+<h3 align="center" style="color:#FF0000;">
+  etudiant 4️⃣2️⃣ minsallah! 
+  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
+</h3>
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/736x/87/94/e0/8794e09bcebe048849c93d5f4edeecd3.jpg" alt="Image" style="float: right; width: 100px; height: auto; margin-left: 10px;">
+</div>
+
+
 ---
 
 <div align="center">

@@ -20,6 +20,7 @@
   ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
   <div style="text-align: center;">
   <img src="https://i.pinimg.com/736x/87/94/e0/8794e09bcebe048849c93d5f4edeecd3.jpg" alt="Sam et sa cousine" style="width:340px; height:80px;">
+  <h1 align="center" style="color:#FF0000;">BONSOIR •ᴗ•</h1>
 </div>
 
 ---

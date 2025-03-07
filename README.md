@@ -71,8 +71,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
-
----──୨ৎ──
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>

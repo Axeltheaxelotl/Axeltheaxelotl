@@ -170,7 +170,7 @@
         <h2>J'ai déjà utilisé ChatGPT avant vous !!!</h2>
       </td>
       <td>
-        <img src="https://camo.githubusercontent.com/6ae0af0352ad2f5dbce7714e2e4eecd12804711b9660803d9928dfc5f0c6d045/68747470733a2f2f692e70696e696d672e636f6d2f373336782f63372f61362f35642f63376136356464393134316534616633373731343738353739313431623731352e6a7067" width="200" />
+        <img src="https://i.pinimg.com/736x/e9/90/fc/e990fcabfa08a01a7975c9c6e602c5b1.jpg" width="200" />
       </td>
     </tr>
   </table>

@@ -195,7 +195,7 @@
        ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
     </td>
     <td colspan="3" align="center" style="border: none;">
-      rbiskin)<br>
+      rbiskin<br>
       👂 👁️ 👁️ 👂 <br>
       👃 <br>
       👄 <br>

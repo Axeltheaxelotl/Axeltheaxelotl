@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/2b/8f/16/2b8f16a3f4e1116ffc6607a03bbe771f.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+      <img src="https://i.pinimg.com/736x/2b/8f/16/2b8f16a3f4e1116ffc6607a03bbe771f.jpg" alt="Icon" style="width: 40px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">🔗 View Repo</a></td>
   </tr>

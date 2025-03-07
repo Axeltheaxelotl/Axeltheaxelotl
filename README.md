@@ -124,31 +124,31 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/d5/b1/ee/d5b1ee043c6742daeb07f5d12d48591b.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+      <img src="https://i.pinimg.com/736x/f2/eb/c0/f2ebc07c240d15d4bb1e0e6f7217edc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/03/81/00/0381000cffe1f77a2d883c7258e126d5.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>CPP</strong>
+      <img src="https://i.pinimg.com/736x/d3/92/59/d3925950fb0887c0d8447d558d4be9b2.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/2a/d3/8f/2ad38f9b31ace7147236459638d8802b.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      <img src="https://i.pinimg.com/736x/6b/37/da/6b37da0fe80d101d335b6edd5108e11c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/dd/70/9c/dd709c1798ed08fbd062ab8f41856054.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+      <img src="https://i.pinimg.com/736x/47/3b/af/473bafb6ea2d1aa99bb276a50095bc9c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/6f/14/49/6f144916cb430c5e3837f3a88a406234.jpg" alt="Icon" style="width: 25px; vertical-align: middle;"/> <strong>Piscine_42</strong>
+      <img src="https://i.pinimg.com/736x/e4/4d/cd/e44dcd4a89998a668a533f1a51e0c769.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>Piscine_42</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">🔗 View Repo</a></td>
   </tr>

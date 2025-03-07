@@ -176,14 +176,49 @@
   </table>
 </div>
 
-
 <div align="center">
-  <p>🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
-  <p>𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
-  <p>𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>
-  <p>𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸</p>
+  👂 👁️ 👁️ 👂 <br>
+  👃 <br>
+  👄 <br>
+  🖐️ 🟨🟨 🤚 <br>
+  🟨🟨<br>
+  🟨🟨<br>
+  🦵 🦵
 </div>
-<p align="center">
-
-
-
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <div align="center">
+      👂 👁️ 👁️ 👂 <br>
+      👃 <br>
+      👄 <br>
+      🖐️ 🟨🟨 🤚 <br>
+      🟨🟨<br>
+      🟨🟨<br>
+      🦵 🦵
+    </div>
+    <div align="center">
+        <p>🩸⋆˚✿˖°ᡣ𐭩🩸 𝒯'𝑒𝓈 𝒻𝓇𝒶î𝒸𝒽𝑒, 𝒿𝑒 𝓈𝓊𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
+        <p>𝐿𝒶 𝒹𝒾𝓈𝓉𝒶𝓃𝒸𝑒 𝑒𝓃𝓉𝓇𝑒 𝓃𝑜𝓊𝓈 𝓈'𝑒𝒻𝒻𝒶𝒸𝑒</p>
+        <p>𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>
+        <p>𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸</p>
+    </div>
+    <div align="center">
+      👂 👁️ 👁️ 👂 <br>
+      👃 <br>
+      👄 <br>
+      🖐️ 🟨🟨 🤚 <br>
+      🟨🟨<br>
+      🟨🟨<br>
+      🦵 🦵
+    </div>
+  </div>
+</div>
+<div align="center">
+  👂 👁️ 👁️ 👂 <br>
+  👃 <br>
+  👄 <br>
+  🖐️ 🟨🟨 🤚 <br>
+  🟨🟨<br>
+  🟨🟨<br>
+  🦵 🦵
+</div>

@@ -176,53 +176,6 @@
   </table>
 </div>
 
-<div align="center">
-  👂 👁️ 👁️ 👂 <br>
-  👃 <br>
-  👄 <br>
-  🖐️ 🟨🟨 🤚 <br>
-  🟨🟨<br>
-  🟨🟨<br>
-  🦵 🦵
-</div>
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <div align="center">
-      👂 👁️ 👁️ 👂 <br>
-      👃 <br>
-      👄 <br>
-      🖐️ 🟨🟨 🤚 <br>
-      🟨🟨<br>
-      🟨🟨<br>
-      🦵 🦵
-    </div>
-    <div align="center">
-        <p>𝒯'𝑒𝓈 𝓇𝒶𝒽𝑒, 𝒿𝑒 𝓈𝒾𝓈 𝒻𝓇𝒶𝒾𝓈</p>
-        <p>𝐿𝒶 𝒹𝒾𝒶𝓃𝒸𝑒𝑒𝓃𝓇𝑒𝑜𝓊𝓈 𝓈'</p>
-        <p>𝒥'𝒶𝓂𝒾𝓈𝓉𝓂𝒶𝓃𝑔𝑒𝓇</p>
-        <p>𝒍𝑒𝓈 𝒻𝑒𝓈 ⋆˚✿˖°ᡣ𐭩🩸</p>
-    </div>
-    <div align="center">
-      👂 👁️ 👁️ 👂 <br>
-      👃 <br>
-      👄 <br>
-      🖐️ 🟨🟨 🤚 <br>
-      🟨🟨<br>
-      🟨🟨<br>
-      🦵 🦵
-    </div>
-  </div>
-</div>
-<div align="center">
-  👂 👁️ 👁️ 👂 <br>
-  👃 <br>
-  👄 <br>
-  🖐️ 🟨🟨 🤚 <br>
-  🟨🟨<br>
-  🟨🟨<br>
-  🦵 🦵
-</div>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -251,14 +204,5 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      👂 👁️ 👁️ 👂 <br>
-      👃 <br>
-      👄 <br>
-      🖐️ 🟨🟨 🤚 <br>
-      🟨🟨<br>
-      🟨🟨<br>
-      🦵 🦵
-    </td>
   </tr>
 </table>

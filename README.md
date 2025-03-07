@@ -72,10 +72,7 @@
 </p>
 
 
----
-
-## Discord ☎️
-
+---──୨ৎ──
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
@@ -178,9 +175,9 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
+<table align="center" style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       👂 👁️ 👁️ 👂 <br>
       👃 <br>
       👄 <br>
@@ -189,14 +186,14 @@
       🟨🟨<br>
       🦵 🦵
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       ───────────୨ৎ───────────<br>
       Tu es frais, je suis fraîche<br>
       la distance entre nous s'affaisse<br>
       j'aimerais te manger les fesses<br>
        ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
     </td>
-    <td align="center">
+    <td colspan="3" align="center" style="border: none;">
       👂 👁️ 👁️ 👂 <br>
       👃 <br>
       👄 <br>

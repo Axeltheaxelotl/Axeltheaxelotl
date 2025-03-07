@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;">
 </p>
 
-<h1 align="center" style="color:#FF0000;">BONSOIR •ᴗ•</h1>
+---
 <h3 align="center" style="color:#FF0000;">
   etudiant 4️⃣2️⃣ minsallah! 
   ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
@@ -155,8 +155,8 @@
 
 
 <br>
-
-## 🩸🎖 Sam core 🎖🩸
+---
+### 🩸🎖 Sam core 🎖🩸
 
 <div align="center">
   <table>

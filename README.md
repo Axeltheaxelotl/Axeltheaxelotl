@@ -153,9 +153,10 @@
   </tr>
 </table>
 
-
 <br>
+
 ---
+
 ### 🩸🎖 Sam core 🎖🩸
 
 <div align="center">
@@ -181,7 +182,7 @@
   <p>𝒥'𝒶𝓂𝑒𝓇𝒶𝒾𝓈 𝓉𝑒 𝓂𝒶𝓃𝑔𝑒𝓇</p>
   <p>𝒍𝑒𝓈 𝒻𝑒𝓈𝓈𝑒𝓈 🩸⋆˚✿˖°ᡣ𐭩🩸</p>
 </div>
-<p align="center"><strong>simon core</strong></p>
+<p align="center">
 
 
 

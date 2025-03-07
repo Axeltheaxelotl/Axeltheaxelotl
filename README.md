@@ -12,7 +12,7 @@
 ---
 <h3 align="center" style="color:#FF0000;">
   etudiant 4️⃣2️⃣ minsallah! 
-  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">Alanty</a>
+  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">alanty</a>
   <div style="text-align: center;">
   <img src="https://i.pinimg.com/originals/0d/dd/d3/0dddd3aa1944fd1273ee1e34dce30fac.gif" alt="Sam et sa cousine" style="width:340px; height:100px;">
   <br>

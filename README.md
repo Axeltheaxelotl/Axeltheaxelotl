@@ -188,12 +188,13 @@
     </td>
     <td align="center" style="border: none;">
       ───────────୨ৎ───────────<br>
-      Tu es frais, je suis fraîche<br>
+      Tu es fraiche, je suis frais<br>
       la distance entre nous s'affaisse<br>
       j'aimerais te manger les fesses<br>
        ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
     </td>
     <td colspan="3" align="center" style="border: none;">
+      rbiskin<br>
       👂 👁️ 👁️ 👂 <br>
       👃 <br>
       👄 <br>

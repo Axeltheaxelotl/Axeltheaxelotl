@@ -14,7 +14,7 @@
   etudiant 4️⃣2️⃣ minsallah! 
   ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">alanty</a>
   <div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/0d/dd/d3/0dddd3aa1944fd1273ee1e34dce30fac.gif" alt="Sam et sa cousine" style="width:340px; height:100px;">
+  <img src="https://i.pinimg.com/736x/79/dd/aa/79ddaad60e7389f8ca50cec9ab630781.jpg" alt="Sam et sa cousine" style="width:340px; height:100px;">
   <br>
   BONSOIR •ᴗ•
 </div>

@@ -72,6 +72,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-red&hide_border=true&ring=FF0000&fire=FF0000" alt="Streak GitHub" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Langues avec Pourcentages" width="50%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/2a/93/60/2a9360380e7c22a1688edd6da3b78128.gif" width="400" height="535"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=8" alt="Trophées GitHub" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
+</p>
+
+
 ## 🍎 Contacts 🎈
 
 <p align="center">

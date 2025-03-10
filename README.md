@@ -13,11 +13,11 @@
 
 <h3 align="center" style="color:#FF0000;">
    Etudiant 4️⃣2️⃣ minsallah!
-  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">alanty</a> 8===✊🏼=D💦😩
+  ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">alanty</a>
   <div style="text-align: center;">
   <img src="https://i.pinimg.com/originals/14/2d/e8/142de81a4b5231ae5715f9884cd047d0.gif" alt="Sam et sa cousine" style="width:340px; height:100px;">
   <br>
-    BONSOIR 🕋ﷲ﷽
+    BONSOIR 
 </div>
 
 ---
@@ -72,13 +72,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
+## 🍎 Contacts 🎈
+
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
-
----
 
 ## 🩸🎖 Pokedex de 42 🎖🩸
 

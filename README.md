@@ -17,7 +17,7 @@
   <div style="text-align: center;">
   <img src="https://i.pinimg.com/originals/14/2d/e8/142de81a4b5231ae5715f9884cd047d0.gif" alt="Sam et sa cousine" style="width:340px; height:100px;">
   <br>
-    BONSOIR 
+    BONSOIR ◕⩊◕
 </div>
 
 ---

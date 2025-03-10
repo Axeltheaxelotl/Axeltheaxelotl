@@ -81,7 +81,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://i.pinimg.com/originals/2a/93/60/2a9360380e7c22a1688edd6da3b78128.gif" alt="Streak GitHub" width="48%"/>
+  <img src="https://i.pinimg.com/originals/2a/93/60/2a9360380e7c22a1688edd6da3b78128.gif" alt="Streak GitHub" width="30%"/>
 </p>
 
 

@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/6b/37/da/6b37da0fe80d101d335b6edd5108e11c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      <img src="https://i.pinimg.com/736x/82/dc/3f/82dc3f85484d2072a7d2c02ae40dc9f7.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">🔗 View Repo</a></td>
   </tr>

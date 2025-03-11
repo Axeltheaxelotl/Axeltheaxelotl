@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/c2/66/4d/c2664dcf18d2fd777aa954df6cd113a2.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
+      <img src="https://i.pinimg.com/736x/9f/f6/e2/9ff6e2de2043fb5a1f3e26b8c62f1292.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">🔗 View Repo</a></td>
   </tr>

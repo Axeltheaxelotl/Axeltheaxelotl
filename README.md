@@ -118,19 +118,19 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/2b/8f/16/2b8f16a3f4e1116ffc6607a03bbe771f.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
+      <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>42-Common-Core</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/f2/eb/c0/f2ebc07c240d15d4bb1e0e6f7217edc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+      <img src="https://i.pinimg.com/736x/9c/dc/2c/9cdc2c3df19a1d000c1ce626d4dd159c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/d3/92/59/d3925950fb0887c0d8447d558d4be9b2.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
+      <img src="https://i.pinimg.com/736x/c2/66/4d/c2664dcf18d2fd777aa954df6cd113a2.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">🔗 View Repo</a></td>
   </tr>

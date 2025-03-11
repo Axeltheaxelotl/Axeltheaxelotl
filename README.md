@@ -54,7 +54,7 @@
 
 
 
----
+---https://github.com/Nowex214
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
@@ -170,7 +170,7 @@
         <h2> *** J'ai déjà utilisé ChatGPT avant vous !!! *** </h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/e9/90/fc/e990fcabfa08a01a7975c9c6e602c5b1.jpg" width="200" />
+        <img src="https://i.pinimg.com/originals/97/35/82/973582d9b0e0761a1b880edb78b7f4e7.gif" width="200" />
       </td>
     </tr>
   </table>

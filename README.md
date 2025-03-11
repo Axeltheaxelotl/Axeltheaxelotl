@@ -154,9 +154,9 @@
   </tr>
   <tr>
    <td style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/e4/4d/cd/e44dcd4a89998a668a533f1a51e0c769.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>Piscine_42</strong>
+    <img src="https://i.pinimg.com/736x/e4/4d/cd/e44dcd4a89998a668a533f1a51e0c769.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>GetMaBite "Webserv"</strong>
    </td>
-    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">🔗 View Repo</a></td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/GetMaBite" target="_blank">🔗 View Repo</a></td>
   </tr>
 </table>
 

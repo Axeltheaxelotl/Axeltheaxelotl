@@ -102,10 +102,14 @@ le>
 <div align="center">
   <table>
     <tr>
+      <td colspan="2" align="left">
+        🍎 Contacts 🎈
+      </td>
+    </tr>
+    <tr>
       <td>
-        ## 🛠️ Compétences 🎈
         <a href="https://wa.me/yourphonenumber" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>  
         </a>
         <a href="https://www.snapchat.com/add/yourusername" target="_blank">
           <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
@@ -131,6 +135,7 @@ le>
     </tr>
   </table>
 </div>
+
 
 <br></br>
 

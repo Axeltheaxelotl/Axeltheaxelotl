@@ -54,13 +54,14 @@
 
 <div>
 
-![bash](https://skillicons.dev/icons?i=bash) 
 ![C](https://skillicons.dev/icons?i=c)
-![flutter](https://skillicons.dev/icons?i=flutter) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
 ![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![Arduino](https://skillicons.dev/icons?i=arduino)
+![bash](https://skillicons.dev/icons?i=bash)
+![vim](https://skillicons.dev/icons?i=vim) 
+![bash](https://skillicons.dev/icons?i=bash) 
+![docker](https://skillicons.dev/icons?i=docker) 
+
 
 </div>
 

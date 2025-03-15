@@ -107,36 +107,36 @@ le>
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://wa.me/yourphonenumber" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://www.snapchat.com/add/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
         <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://discord.com/users/yourdiscordid" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="mailto:yourmail@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
       </a>

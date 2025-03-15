@@ -91,7 +91,7 @@
   <table>
     <tr>
       <td colspan="2" align="center">
-        <h3><strong> ✉️ Contacts ☎️ </strong><span style="font-size: 18px;">Vous pouvez me contacter via le web 🌐</span></h3>
+        <h3><strong> ✉️ Contacts ☎️ </strong><span style="font-size: 5px;">Vous pouvez me contacter via le web 🌐</span></h3>
       </td> 
     </tr>
     <tr>

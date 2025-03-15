@@ -88,7 +88,7 @@
 
 ## 🍎 Contacts 🎈
 
-<p align="center">
+<p align="left">
   <a href="https://wa.me/yourphonenumber" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
   </a>

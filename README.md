@@ -142,10 +142,9 @@ le>
       </a>
     </td>
   </tr>
-</table>
 
 </td>
-  <td>
+  <td align="right">
     <img src="https://camo.githubusercontent.com/75e5b34fac6178dfcb6263f9c1dd218ac6cc28a73597366d23a432802aaf96df/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64332f33392f63632f64333339636339313932353734653933633238316264393030313937383866652e6a7067" width="180" />
   </td>
 </tr>

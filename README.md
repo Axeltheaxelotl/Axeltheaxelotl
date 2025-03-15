@@ -85,9 +85,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
-<h2 align="left">
-  🍎 Contacts 🎈
-</h2>
 
 <table>
   <tr>
@@ -159,7 +156,6 @@
       </a>
     </td>
   </tr>
-        
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername" target="_blank">
@@ -169,8 +165,6 @@
         <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
       </a>
     </td>
-
-  <tr>
     <td align="center">
         <a href="mailto:yourmail@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>

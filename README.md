@@ -91,7 +91,7 @@
   <table>
     <tr>
       <td colspan="2" align="center">
-        <h2>🍎 Contacts 🎈</h2>
+        ## 🍎 Contacts 🎈
       </td>
     </tr>
     <tr>

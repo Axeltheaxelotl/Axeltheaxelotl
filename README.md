@@ -97,7 +97,7 @@
     <tr>
       <td>
         <a href="https://wa.me/yourphonenumber" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="150" height="80"/>  
+          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="170" height="50"/>  
         </a>
         <a href="https://www.snapchat.com/add/yourusername" target="_blank">
           <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" width="150" height="50"/>

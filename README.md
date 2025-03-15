@@ -85,8 +85,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
-
-## 🍎 Contacts 🎈
+<h2 align="left">
+🍎 Contacts 🎈
+</h2>
 
 <p align="left">
   <a href="https://wa.me/yourphonenumber" target="_blank">

@@ -60,7 +60,9 @@
 ![bash](https://skillicons.dev/icons?i=bash)
 ![vim](https://skillicons.dev/icons?i=vim) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
-![docker](https://skillicons.dev/icons?i=docker) 
+![docker](https://skillicons.dev/icons?i=docker)
+![Chatgpt](https://skillicons.dev/icons?i=chatgpt)
+
 
 
 </div>

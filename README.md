@@ -27,7 +27,7 @@
     <tr>
       <td>
 
-## 🛠️ Compétences 🎈
+## 🛠️ Compétences 👨🏻‍💻
 
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)

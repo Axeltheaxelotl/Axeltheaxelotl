@@ -138,6 +138,55 @@
 </table>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+## 🛠️ Compétences 🎈
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/yourphonenumber" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+      <a href="https://www.snapchat.com/add/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
+      </a>
+      <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
+        <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
+      </a>
+    </td>
+  </tr>
+        
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+      </a>
+      <a href="https://discord.com/users/yourdiscordid" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+      </a>
+    </td>
+    
+  <td align="center">
+      <a href="mailto:yourmail@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</td>
+      <td>
+        <img src="https://camo.githubusercontent.com/75e5b34fac6178dfcb6263f9c1dd218ac6cc28a73597366d23a432802aaf96df/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64332f33392f63632f64333339636339313932353734653933633238316264393030313937383866652e6a7067" width="180" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <br></br>
 
 <h2 align="left">

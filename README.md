@@ -61,7 +61,7 @@
 ![vim](https://skillicons.dev/icons?i=vim) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![docker](https://skillicons.dev/icons?i=docker)
-![Chatgpt](https://skillicons.dev/icons?i=chatgpt)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 
 

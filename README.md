@@ -96,24 +96,24 @@
     <tr>
       <td>
         <a href="https://wa.me/yourphonenumber" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="100"/>  
+          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="150"/>  
         </a>
         <a href="https://www.snapchat.com/add/yourusername" target="_blank">
-          <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" width="100"/>
+          <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" width="150"/>
         </a>
         <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
-          <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" width="100"/>
+          <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" width="150"/>
         </a>
         <br>
         <a href="https://github.com/yourusername" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" width="100"/>
+          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" width="150"/>
         </a>
         <a href="https://discord.com/users/yourdiscordid" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="100"/>
+          <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="150"/>
         </a>
         <br>
         <a href="mailto:yourmail@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="100"/>
+          <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="150"/>
         </a>
       </td>
       <td>

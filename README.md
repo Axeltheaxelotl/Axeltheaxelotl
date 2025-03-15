@@ -120,7 +120,7 @@
         </a>
       </td>
       <td>
-        <img src="https://camo.githubusercontent.com/75e5b34fac6178dfcb6263f9c1dd218ac6cc28a73597366d23a432802aaf96df/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64332f33392f63632f64333339636339313932353734653933633238316264393030313937383866652e6a7067" width="180" />
+        <img src="https://i.pinimg.com/736x/e9/6c/df/e96cdf7a41d14797c48d5a7d8e9907ee.jpg" width="180" />
       </td>
     </tr>
   </table>

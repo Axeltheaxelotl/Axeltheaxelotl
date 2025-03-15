@@ -59,7 +59,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![bash](https://skillicons.dev/icons?i=bash)
 ![vim](https://skillicons.dev/icons?i=vim) 
-![bash](https://skillicons.dev/icons?i=bash) 
+![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![docker](https://skillicons.dev/icons?i=docker) 
 
 

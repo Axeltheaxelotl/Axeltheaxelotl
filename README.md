@@ -15,7 +15,7 @@
    Etudiant 4️⃣2️⃣ minsallah!
   ➡️ <a href="https://profile.intra.42.fr/users/alanty" style="color: #0000FF; text-decoration: none;">alanty</a>
   <div style="text-align: center;">
-  <img src="https://images.steamusercontent.com/ugc/262719480203467152/63D679F09B367D439F29DFFB2D4F122157160ED1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Sam et sa cousine" style="width:340px; height:150px;">
+  <img src="https://images.steamusercontent.com/ugc/262719480203467152/63D679F09B367D439F29DFFB2D4F122157160ED1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Sam et sa cousine" style="width:400px; height:150px;">
   <br>
     BONSOIR ◕⩊◕
 </div>

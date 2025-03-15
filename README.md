@@ -52,6 +52,18 @@
   </table>
 </div>
 
+<div>
+
+![bash](https://skillicons.dev/icons?i=bash) 
+![C](https://skillicons.dev/icons?i=c)
+![flutter](https://skillicons.dev/icons?i=flutter) 
+![C++](https://skillicons.dev/icons?i=cpp) 
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>

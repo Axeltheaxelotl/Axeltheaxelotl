@@ -93,6 +93,10 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" width="40"/>
   </a>
 </p>
+<img src="https://skillicons.dev/icons?i=snapchat" alt="Snapchat"/>
+<img src="https://skillicons.dev/icons?i=slack" alt="Slack"/>
+<img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp"/>
+
 
 
 ## 🩸🎖 Pokedex de 42 🎖🩸

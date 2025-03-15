@@ -90,6 +90,13 @@
 </h2>
 
 <p align="center">
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pyramide_de_Ponzi-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Pyramide de Ponzi"/>
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://wa.me/yourphonenumber" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
   </a>

@@ -95,7 +95,7 @@
         <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌐</span>
       </td>
     </tr>
-      <br>
+      <br></br><br>
     <tr>
       <td>
         <a href="https://wa.me/yourphonenumber" target="_blank">

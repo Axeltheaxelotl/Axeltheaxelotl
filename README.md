@@ -62,8 +62,7 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![make](https://skillicons.dev/icons?i=make)
-
+![Make](https://skillicons.dev/icons?i=make)    
 
 
 

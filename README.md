@@ -87,8 +87,6 @@
 
 <br></br>
 
----
-
 <div align="center">
   <table>
     <tr>
@@ -218,7 +216,7 @@
 
 ---
 
-### 🩸🎖 Sam core 🎖🩸
+### ֎ Sam core ֎🤖
 
 <div align="center">
   <table>

@@ -90,9 +90,18 @@
 
 <p align="center">
   <a href="https://discord.com/users/1281282926515851324" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>![Discord](https://skillicons.dev/icons?i=discorde)
+
   </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.com/users/1281282926515851324" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%23FF0000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" width="40"/>
+  </a>
+</p>
+
 
 ## 🩸🎖 Pokedex de 42 🎖🩸
 

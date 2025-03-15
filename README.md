@@ -267,3 +267,6 @@
   <tr>
   </tr>
 </table>
+
+<a href="gnome-terminal">Ouvrir Terminal</a>
+

@@ -70,41 +70,6 @@
 
 <div>
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Vim](https://skillicons.dev/icons?i=vim)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![GitHub](https://skillicons.dev/icons?i=github)
-![HTML](https://skillicons.dev/icons?i=html)
-![SQL](https://skillicons.dev/icons?i=sql)
-![Git](https://skillicons.dev/icons?i=git)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-
-### 🍎 Langages 🎈
-
-![C](https://img.shields.io/badge/C-%23FF0000.svg?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23FF0000.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23FF0000.svg?style=for-the-badge&logo=Rust&logoColor=white)
-
-### 🧰 Outils et Technologies 🎈
-
-![Linux](https://img.shields.io/badge/Linux-%23FF0000.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23FF0000.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-
-</div>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>

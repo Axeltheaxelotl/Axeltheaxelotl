@@ -86,47 +86,34 @@
 </p>
 
 
-<table>
-  <tr>
-    <td align="left">
-      🍎 Contacts 🎈
-    </td>
-    <td align="right">
-      <img src="your-image-url.jpg" alt="Image" width="50" height="50"/>
-    </td>
-  </tr>
-</table>
-le>
-
-
 <div align="center">
   <table>
     <tr>
-      <td colspan="2" align="left">
+      <td colspan="2" align="center">
         🍎 Contacts 🎈
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://wa.me/yourphonenumber" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>  
+          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="50"/>  
         </a>
         <a href="https://www.snapchat.com/add/yourusername" target="_blank">
-          <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
+          <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" width="50"/>
         </a>
         <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
-          <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
+          <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" width="50"/>
         </a>
         <br>
         <a href="https://github.com/yourusername" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" width="50"/>
         </a>
         <a href="https://discord.com/users/yourdiscordid" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+          <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="50"/>
         </a>
         <br>
         <a href="mailto:yourmail@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+          <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="50"/>
         </a>
       </td>
       <td>
@@ -135,6 +122,7 @@ le>
     </tr>
   </table>
 </div>
+
 
 
 <br></br>

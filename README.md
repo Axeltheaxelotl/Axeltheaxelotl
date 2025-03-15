@@ -126,10 +126,10 @@
   </table>
 </div>
 
-
-
+---
 
 <br></br>
+
 
 <h2 align="left">
   Pokedex de 42 (╯°□°)╯︵🔴

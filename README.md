@@ -89,14 +89,6 @@
 🍎 Contacts 🎈
 </h2>
 
-</p>
-
-<br></br>
-
-<h2 align="left">
-  🩸🎖 Pokedex de 42 🎖🩸
-</h2>
-
 <p align="left">
   <a href="https://wa.me/yourphonenumber" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
@@ -109,7 +101,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
@@ -124,6 +116,11 @@
   </a>
 </p>
 
+<br></br>
+
+<h2 align="left">
+  🩸🎖 Pokedex de 42 🎖🩸
+</h2>
 
 <div align="center">
 

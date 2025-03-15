@@ -86,12 +86,19 @@
 </p>
 
 <h2 align="left">
-🍎 Contacts 🎈
+  🍎 Contacts 🎈
 </h2>
 
-<h2 align="left">
-🍎 Contacts 🎈
-</h2>
+<table>
+  <tr>
+    <td align="left">
+      🍎 Contacts 🎈
+    </td>
+    <td align="right">
+      <img src="your-image-url.jpg" alt="Image" width="50" height="50"/>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -110,9 +117,6 @@
         <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
       </a>
     </td>
-    <td align="center">
-      <img src="your-image-url.jpg" alt="Image" width="50" height="50"/>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -129,9 +133,6 @@
       <a href="mailto:yourmail@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
       </a>
-    </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/736x/ce/c1/f0/cec1f03488cccbd764a4e0c44997ba32.jpg"  alt="Sam et sa cousine" style="width:100px; height:150px;"/>
     </td>
   </tr>
 </table>

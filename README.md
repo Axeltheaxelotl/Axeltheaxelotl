@@ -29,35 +29,35 @@
 
 ## 🛠️ Compétences 🎈
 
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Vim](https://skillicons.dev/icons?i=vim)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![HTML](https://skillicons.dev/icons?i=html)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![CMake](https://skillicons.dev/icons?i=cmake)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=sql)
 
 
 </td>

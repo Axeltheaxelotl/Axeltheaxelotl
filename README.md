@@ -85,11 +85,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
+---
+
 <div align="center">
   <table>
     <tr>
       <td colspan="2" align="center">
-        🍎 Contacts 🎈
+        <h2>🍎 Contacts 🎈</h2>
       </td>
     </tr>
     <tr>

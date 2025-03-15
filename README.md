@@ -89,32 +89,53 @@
 🍎 Contacts 🎈
 </h2>
 
-<p align="center">
-  <a href="https://wa.me/yourphonenumber" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.snapchat.com/add/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
-  </a>
-  <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
-  </a>
-</p>
+<h2 align="left">
+🍎 Contacts 🎈
+</h2>
 
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/yourphonenumber" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.snapchat.com/add/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
+        <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="your-image-url.jpg" alt="Image" width="50" height="50"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/yourdiscordid" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:yourmail@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/ce/c1/f0/cec1f03488cccbd764a4e0c44997ba32.jpg"  alt="Sam et sa cousine" style="width:100px; height:150px;"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
 
 <br></br>
 

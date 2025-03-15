@@ -55,7 +55,6 @@
 <div>
 
 ![C](https://skillicons.dev/icons?i=c)
-![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Bash](https://skillicons.dev/icons?i=bash)
@@ -65,24 +64,11 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![HTML](https://skillicons.dev/icons?i=html)
-![JavaScript](https://skillicons.dev/icons?i=js)
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![Git](https://skillicons.dev/icons?i=git)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![CI/CD](https://skillicons.dev/icons?i=cicd)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Go](https://skillicons.dev/icons?i=go)
-![Ansible](https://skillicons.dev/icons?i=ansible)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Ruby](https://skillicons.dev/icons?i=ruby)
 
 
 

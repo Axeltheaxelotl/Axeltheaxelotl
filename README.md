@@ -85,9 +85,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
 </p>
 
----
-
 <br></br>
+
+---
 
 <div align="center">
   <table>

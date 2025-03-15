@@ -93,10 +93,36 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" width="40"/>
   </a>
 </p>
-<img src="https://skillicons.dev/icons?i=snapchat" alt="Snapchat"/>
-<img src="https://skillicons.dev/icons?i=slack" alt="Slack"/>
-<img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp"/>
 
+<p align="center">
+  <a href="https://discord.com/users/1281282926515851324" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="ta geule" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1281282926515851324" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="ta geule" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.snapchat.com/add/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://slack.com/app_redirect?channel=yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/>
+  </a>
+</p>
 
 
 ## 🩸🎖 Pokedex de 42 🎖🩸

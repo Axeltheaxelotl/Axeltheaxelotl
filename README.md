@@ -164,8 +164,8 @@
       <a href="https://discord.com/users/yourdiscordid" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
       </a>
+  <tr>
     </td>
-    <td align="center">
         <a href="mailto:yourmail@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
         </a>

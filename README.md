@@ -132,7 +132,7 @@
 <br></br>
 
 <h2 align="left">
-  🩸🎖 Pokedex de 42 🎖🩸
+  Pokedex de 42 (╯°□°)╯︵◓
 </h2>
 
 <div align="center">

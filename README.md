@@ -226,7 +226,9 @@
 
 ---
 
-### ֎ Sam core ֎🤖
+<h2 align="left">
+ ֎ Sam core ֎🤖
+</h2>
 
 <div align="center">
   <table>

@@ -74,7 +74,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
-![SQL](https://skillicons.dev/icons?i=sql)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)
 

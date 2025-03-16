@@ -25,7 +25,6 @@
     </a></td>
   </tr>
 </table>
-
     BONSOIR ◕⩊◕
 </div>
 

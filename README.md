@@ -159,10 +159,10 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/736x/b1/a0/4a/b1a04ad26c34389dcae67729f9d53d4d.jpg" alt="Sam et sa cousine" style="width:200px; height:200px;"/>
+  <img src="https://i.pinimg.com/736x/b1/a0/4a/b1a04ad26c34389dcae67729f9d53d4d.jpg" alt="Sam et sa cousine" style="width:50px; height:50px;"/>
   <p style="margin-left: 10px; margin-right: 10px;">1 don 1 pipe:</p>
   <a href="https://www.paypal.com" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="180" height="50"/>
+    <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="100" height="50"/>
   </a>
 </div>
 

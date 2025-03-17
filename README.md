@@ -246,7 +246,7 @@
          <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" width="200" />
         </td>
       <td>
-        <h2> *** J'ai déjà utilisé ChatGPT avant vous !!! *** </h2>
+        <h2>J'ai déjà utilisé ChatGPT avant vous !!! </h2>
       </td>
       <td>
         <img src="https://i.pinimg.com/736x/0b/4d/be/0b4dbedd6656e3884173c0cd19affc01.jpg" width="200" />

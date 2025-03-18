@@ -37,6 +37,21 @@
   </table>
 </div>
 
+<div style="text-align: center;">
+  <table align="center" style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="text-align: left;"><h3>BONSOIR ◕⩊◕</h3></td>
+      <td style="text-align: center;">
+        <img src="https://i.pinimg.com/736x/b1/a0/4a/b1a04ad26c34389dcae67729f9d53d4d.jpg" alt="Sam et sa cousine" style="width:100px; height:100px;"/>
+      </td>
+      <td style="text-align: right;">
+        <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">
+          <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="150" height="50"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---

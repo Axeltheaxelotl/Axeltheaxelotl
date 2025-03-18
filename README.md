@@ -132,7 +132,7 @@
           <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="150" height="50"/>
         </a>
         <br>
-        <a href="mailto:axellanty14@gmail.com" target="_blank">
+        <a href="mailto:lantyaxel3@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="150" height="50"/>
         </a>
       </td>

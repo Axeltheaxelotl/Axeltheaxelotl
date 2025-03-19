@@ -290,7 +290,6 @@
   </div>
 
 </td>
-
     </td>
     <td align="center" style="border: none;">
       ───────────୨ৎ───────────<br>

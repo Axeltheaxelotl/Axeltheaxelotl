@@ -132,7 +132,7 @@
           <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="150" height="50"/>
         </a>
         <br>
-        <a href="mailto:lantyaxel3@gmail.com" target="_blank">
+        <a href="mailto:axellanty14@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="150" height="50"/>
         </a>
       </td>
@@ -158,6 +158,7 @@
 | <img src="https://i.pinimg.com/736x/40/39/58/4039580babd324639abf5431dcaeb955.jpg?v=4&s=120" width="120" height="120"> **[smasse](https://github.com/SLDDL)** <br> ***le gay de 42 "26-36"*** | <img src="https://i.pinimg.com/originals/a7/4c/e8/a74ce8e06ba4e569bfe3f66ca690dc88.gif?v=4&s=120" width="120" height="120"> **[pasqualerossi](https://github.com/pasqualerossi)** <br> ***Tu vas nous manquer, habibi*** | <img src="https://i.pinimg.com/736x/c0/8e/e3/c08ee3fa0c15c7d3ddd53b1b94f80d0f.jpg?v=4&s=120" width="120" height="120"> **[ibour](https://github.com/joaorodrigues3099)** <br> ***j'ai cloner un badge*** |
 | <img src="https://i.pinimg.com/236x/5a/1b/45/5a1b451962b1abe76ab76ae39c0d0ded.jpg?v=4&s=120" width="120" height="120"> **[ehamiti](https://github.com/D4K0D4)** <br> ***bon a rien, mauvais a tout*** | <img src="https://i.pinimg.com/736x/cc/91/48/cc9148c6bddf9aa55bec2e4d3d4a7cdc.jpg?v=4&s=120" width="120" height="120"> **[adi-marc](https://github.com/Xoppy)** <br> ***Beyblade*** | <img src="https://i.pinimg.com/736x/37/39/54/373954a6c78a7fa693afbdd878845da7.jpg?v=4&s=120" width="120" height="120"> **[nkiefer](https://github.com/KptaineN)** <br> ***fume avant que la vie te fume*** |
 | <img src="https://i.pinimg.com/236x/95/9b/70/959b700242bdb84a5458f5525e0ba7c9.jpg?v=4&s=120" width="120" height="120"> **[msiemon](https://github.com/Helsanto)** <br> ***juif - bresilien = mange du porc*** | <img src="https://i.pinimg.com/474x/7e/d4/84/7ed4843ab1dea7267ab69eb60e628c44.jpg" width="120" height="120"> **[rbiskin](https://github.com/Rabiya-cyl)** <br> ***kebab durum durum  ❤️→*** | <img src="https://i.pinimg.com/474x/24/98/47/2498473360195950f332b2070f86a695.jpg?v=4&s=120" width="120" height="120"> **[chsauvag](https://github.com/M3ph1st0p3l3s)** <br> ***←❤️ Mon combat*** |
+| <img src="https://i.pinimg.com/736x/81/9d/da/819dda07ba73395157e358c3290a48a1.jpg?v=4&s=120" width="120" height="120"> **[oilyine](https://github.com/KennObby)** <br> ***listes chaînées*** | <img src="https://i.pinimg.com/736x/77/c7/38/77c738923fa23e7f2f83d10f7cb02ce2.jpg?v=4&s=120" width="120" height="120"> **[sheiles](https://github.com/Sheiles)** <br> ***POV: *** | <img src="https://i.pinimg.com/736x/fe/ae/74/feae744859c367ea94c7c18b06bd9a6.jpg?v=4&s=120" width="120" height="120"> **[qwerty](https://github.com/fabiosilva24)** <br> ***qwety*** |
 
 </div>
 
@@ -226,6 +227,12 @@
     <img src="https://i.pinimg.com/736x/e7/fd/26/e7fd265556073794ab816096288a6a92.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>GetMaBite "Webserv"</strong>
    </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/GetMaBite" target="_blank">🔗 View Repo</a></td>
+  </tr>
+    <tr>
+   <td style="text-align: center;">
+    <img src="https://i.pinimg.com/736x/6d/49/92/6d499204d5479dba086bc9139d9da806.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>42_ExamDeMerde</strong>
+   </td>
+    <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42_ExamDeMerde" target="_blank">🔗 View Repo</a></td>
   </tr>
 </table>
 

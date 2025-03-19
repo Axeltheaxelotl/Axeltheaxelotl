@@ -267,7 +267,7 @@
     <td align="center" style="border: none;">
 <td colspan="3" align="center" style="border: none;">
 
-  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+  <div style="display: inline-block; text-align: right; margin-right: 20px;">
     rbiskin<br>
     👂 👁️ 👁️ 👂 <br>
     👃 <br>
@@ -278,7 +278,7 @@
     🦵 🦵
   </div>
 
-  <div style="display: inline-block; text-align: center;">
+  <div style="display: inline-block; text-align: left;">
     rbiskin<br>
     👂 👁️ 👁️ 👂 <br>
     👃 <br>

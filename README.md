@@ -29,7 +29,7 @@
       </td>
       <td style="text-align: right;">
         <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">
-          <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="150" height="150"/>
         </a>
       </td>
     </tr>

@@ -264,7 +264,6 @@
 
 <table align="center" style="border-collapse: collapse;">
   <tr style="border: none;">
-    <td align="center" style="border: none;">
 <td colspan="3" align="center" style="border: none;">
 
   <div style="display: inline-block; text-align: right; margin-right: 20px;">
@@ -279,7 +278,7 @@
   </div>
 
   <div style="display: inline-block; text-align: left;">
-    rbiskin<br>
+    chsauvag<br>
     👂 👁️ 👁️ 👂 <br>
     👃 <br>
     👄 <br>
@@ -288,8 +287,6 @@
     🟨🟨<br>
     🦵 🦵
   </div>
-
-</td>
     </td>
     <td align="center" style="border: none;">
       ───────────୨ৎ───────────<br>
@@ -299,15 +296,7 @@
        ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
     </td>
     <td colspan="3" align="center" style="border: none;">
-      rbiskin<br>
-      👂 👁️ 👁️ 👂 <br>
-      👃 <br>
-      👄 <br>
-      🖐️ 🟨🟨 🤚 <br>
-      🟨🟨<br>
-      🟨🟨<br>
-      🦵 🦵
-        <img src="https://i.pinimg.com/736x/d7/18/2b/d7182b65ec8c17b9a86bbff7d5a0ab07.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
+        <img src="https://i.pinimg.com/736x/d7/18/2b/d7182b65ec8c17b9a86bbff7d5a0ab07.jpg" alt="Sam et sa cousine" style="width:250px; height:250px;"/>
     </td>
   </tr>
   <tr>

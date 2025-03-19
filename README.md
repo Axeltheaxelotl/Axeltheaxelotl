@@ -108,7 +108,7 @@
   <table>
     <tr>
       <td colspan="2" align="left">
-      <h3><strong> ✉️ Contacts ☎️ : </h3>
+      <h2 align="center"><strong> ✉️ Contacts ☎️ : </h3>
         <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌐</span>
       </td>
     </tr>

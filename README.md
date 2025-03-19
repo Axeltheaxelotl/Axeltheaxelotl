@@ -265,14 +265,32 @@
 <table align="center" style="border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      chsauvag<br>
-      👂 👁️ 👁️ 👂&emsp;👂 👁️ 👁️ 👂 <br>
-      👃 &emsp;👃 <br>
-      👄 &emsp;👄 <br>
-      🖐️ 🟨🟨 🤚 &emsp;🖐️ 🟨🟨 🤚 <br>
-      🟨🟨 &emsp;🟨🟨 <br>
-      🟨🟨 &emsp;🟨🟨<br>
-      🦵 🦵 &emsp;🦵 🦵
+<td colspan="3" align="center" style="border: none;">
+
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    rbiskin<br>
+    👂 👁️ 👁️ 👂 <br>
+    👃 <br>
+    👄 <br>
+    🖐️ 🟨🟨 🤚 <br>
+    🟨🟨<br>
+    🟨🟨<br>
+    🦵 🦵
+  </div>
+
+  <div style="display: inline-block; text-align: center;">
+    rbiskin<br>
+    👂 👁️ 👁️ 👂 <br>
+    👃 <br>
+    👄 <br>
+    🖐️ 🟨🟨 🤚 <br>
+    🟨🟨<br>
+    🟨🟨<br>
+    🦵 🦵
+  </div>
+
+</td>
+
     </td>
     <td align="center" style="border: none;">
       ───────────୨ৎ───────────<br>

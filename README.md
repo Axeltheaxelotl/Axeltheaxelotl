@@ -290,6 +290,7 @@
       🟨🟨<br>
       🟨🟨<br>
       🦵 🦵
+        <img src="https://i.pinimg.com/736x/d7/18/2b/d7182b65ec8c17b9a86bbff7d5a0ab07.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
     </td>
   </tr>
   <tr>

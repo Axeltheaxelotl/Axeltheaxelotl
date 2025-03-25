@@ -25,7 +25,7 @@
   <table align="center" style="width: 100%; table-layout: fixed;">
     <tr>
       <td style="text-align: center;">
-        <img src="https://i.pinimg.com/736x/0b/4d/4e/0b4d4ece1d653707c608ea7b7441c814.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
+        <img src="https://i.pinimg.com/736x/af/6d/44/af6d44532d750048c97025218754a138.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
       </td>
       <td style="text-align: right;">
         <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">

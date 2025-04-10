@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/52/78/f2/5278f25ebf69bbbaafd8cdbc7742ca87.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;">
+  <img src="https://i.pinimg.com/736x/eb/f7/53/ebf753397d09fb567d66d7d13bff420e.jpg" alt="Sam et sa cousine" style="width:1000px; height:500px;">
 </p>
 
 ---
@@ -74,7 +74,7 @@
 
 </td>
       <td>
-        <img src="https://camo.githubusercontent.com/75e5b34fac6178dfcb6263f9c1dd218ac6cc28a73597366d23a432802aaf96df/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64332f33392f63632f64333339636339313932353734653933633238316264393030313937383866652e6a7067" width="180" />
+        <img src="https://i.pinimg.com/originals/e6/a0/a3/e6a0a34a36a77aa0abbb7a7bec1b1f9c.gif" width="180" />
       </td>
     </tr>
   </table>
@@ -92,8 +92,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=flat&column=8&text_color=FF69B4&bg_color=FFCCE5" alt="Trophées GitHub" width="75%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=default&text_color=FF69B4&bg_color=FFCCE5" alt="Profile Summary" width="70%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=flat&column=8&text_color=ffffff&bg_color=FFCCE5" alt="Trophées GitHub" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=default&text_color=ffffff&bg_color=FFCCE5" alt="Profile Summary" width="70%"/>
 </p>
 
 
@@ -134,7 +134,7 @@
         </a>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/e9/6c/df/e96cdf7a41d14797c48d5a7d8e9907ee.jpg" width="180" />
+        <img src="https://i.pinimg.com/236x/fe/70/17/fe7017e5a67e7e9bc2abe2fa8158bcae.jpg" width="180" />
       </td>
     </tr>
   </table>
@@ -166,7 +166,7 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/b6/02/e7/b602e7ecdd53abbc12e0b15b1838d795.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---
@@ -251,7 +251,7 @@
         <h2>J'ai déjà utilisé ChatGPT avant vous !!! </h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/0b/4d/be/0b4dbedd6656e3884173c0cd19affc01.jpg" width="200" />
+        <img src="https://i.pinimg.com/236x/b5/12/e6/b512e66a4d4a7227e1e8fd95969884d5.jpg" width="200" />
       </td>
     </tr>
   </table>

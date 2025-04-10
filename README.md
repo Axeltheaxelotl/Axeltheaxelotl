@@ -146,7 +146,7 @@
 
 
 <h2 align="left">
-  Pokedex de 42 (╯°□°)╯︵🔴
+  Pokedex de 42 (╯°□°)╯︵🩷
 </h2>
 
 <div align="center">
@@ -177,8 +177,8 @@
 
 <table align="center" style="width: 100%; max-width: 200px; border-collapse: collapse; padding: 0 100px;">
   <tr>
-    <th style="width: 70%; padding: 15px; text-align: center;">Repository Name</th>
-    <th style="width: 30%; padding: 15px; text-align: center;">Link</th>
+    <th style="width: 70%; padding: 15px; text-align: center;"> 🌸🌷Repository Name 🌷🌸</th>
+    <th style="width: 30%; padding: 15px; text-align: center;">Link 💗</th>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 20px;">
@@ -240,7 +240,7 @@
 ---
 
 <h2 align="left">
- ֎ Sam core ֎🤖
+ 🍧 Sam core 🍧🍥
 </h2>
 
 <div align="center">
@@ -264,11 +264,11 @@
 <table align="center" style="border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      ───────────୨ৎ───────────<br>
+      ──────────•̩̩͙*˚🎀 ˚*•̩̩͙──────────<br>
       Tu es fraiche, je suis frais<br>
       la distance entre nous s'affaisse<br>
       j'aimerais te manger les fesses<br>
-       ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
+       ─────────˗ˏˋ 🌸 ˎˊ˗─────────<br>
     </td>
     <td colspan="3" align="center" style="border: none;">
         <img src="https://i.pinimg.com/474x/8a/cc/3c/8acc3c4d1a955440223f94070f43da94.jpg" alt="Sam et sa cousine" style="width:250px; height:250px;"/>

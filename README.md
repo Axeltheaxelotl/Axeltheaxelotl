@@ -1,7 +1,7 @@
 <div>
-  <img src="https://img.shields.io/github/followers/Axeltheaxelotl?label=Followers&style=for-the-badge&color=FF0000" />
-  <img src="https://img.shields.io/github/stars/Axeltheaxelotl?label=Stars&style=for-the-badge&color=FF0000" />
-  <img src="https://komarev.com/ghpvc/?username=Axeltheaxelotl&label=Profile%20views&color=FF0000&style=for-the-badge" alt="SLDDL" />
+  <img src="https://img.shields.io/github/followers/Axeltheaxelotl?label=Followers&style=for-the-badge&color=FF69B4" />
+  <img src="https://img.shields.io/github/stars/Axeltheaxelotl?label=Stars&style=for-the-badge&color=FF69B4" />
+  <img src="https://komarev.com/ghpvc/?username=Axeltheaxelotl&label=Profile%20views&color=FF69B4&style=for-the-badge" alt="SLDDL" />
 </div>
 
 <br>
@@ -25,11 +25,11 @@
   <table align="center" style="width: 100%; table-layout: fixed;">
     <tr>
       <td style="text-align: center;">
-        <img src="https://i.pinimg.com/736x/af/6d/44/af6d44532d750048c97025218754a138.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
+        <img src="https://i.pinimg.com/736x/1c/4f/3a/1c4f3ad644ec02441d48c13e04625819.jpg" alt="Sam et sa cousine" style="width:250px; height:150px;"/>
       </td>
       <td style="text-align: right;">
         <a href="https://www.paypal.com/donate?hosted_button_id=ZWRJJN9MJHPDY" target="_blank">
-          <img src="https://img.shields.io/badge/PayPal-%2317A5D6.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="250" height="150"/>
+  <img src="https://img.shields.io/badge/PayPal-%23FF69B4.svg?&style=for-the-badge&logo=PayPal&logoColor=white" alt="PayPal" width="150" height="50"/>
         </a>
       </td>
     </tr>
@@ -46,35 +46,21 @@
 
 ## 🛠️ Compétences 👨🏻‍💻
 
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Vim](https://skillicons.dev/icons?i=vim)
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![GitHub](https://skillicons.dev/icons?i=github)
-![HTML](https://skillicons.dev/icons?i=html)
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-![Git](https://skillicons.dev/icons?i=git)
-![CMake](https://skillicons.dev/icons?i=cmake)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-FF69B4?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-FF69B4?style=for-the-badge&logo=cmake&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-FF69B4?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 </td>

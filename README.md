@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 20px;">
-      <img align="center" src="https://i.pinimg.com/236x/dc/7a/93/dc7a9340f7eb460298ecf151a41279ba.jpg" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+      <img align="center" src="https://i.pinimg.com/236x/dc/7a/93/dc7a9340f7eb460298ecf151a41279ba.jpg" alt="Image" style="max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;"/>
     </td>
   </tr>
   <tr>
@@ -235,6 +235,7 @@
   </tr>
 </table>
 
+
 <br>
 
 ---
@@ -264,7 +265,7 @@
 <table align="center" style="border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      ──────────•̩̩͙*˚🎀 ˚*•̩̩͙──────────<br>
+      ────────•̩̩͙*˚🎀 ˚*•̩̩͙────────<br>
       Tu es fraiche, je suis frais<br>
       la distance entre nous s'affaisse<br>
       j'aimerais te manger les fesses<br>

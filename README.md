@@ -46,37 +46,32 @@
 
 ## 🛠️ Compétences 👨🏻‍💻
 
-<div align="center">
+<br>
 
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&scale=2)
+![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white&scale=2)
+![Vim](https://img.shields.io/badge/Vim-FF69B4?style=for-the-badge&logo=vim&logoColor=white&scale=2) 
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-FF69B4?style=for-the-badge&logo=vim&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white&scale=2)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white&scale=2)
+![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white&scale=2)  
 
 <br>
 
-![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white&scale=2)
+![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white&scale=2)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white&scale=2)
 
 <br>
 
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-![CMake](https://img.shields.io/badge/CMake-FF69B4?style=for-the-badge&logo=cmake&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-FF69B4?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-FF69B4?style=for-the-badge&logo=cmake&logoColor=white&scale=2)
+![Nginx](https://img.shields.io/badge/Nginx-FF69B4?style=for-the-badge&logo=nginx&logoColor=white&scale=2)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=for-the-badge&logo=ubuntu&logoColor=white&scale=2)
 
 </div>
+
 </td>
       <td>
         <img src="https://camo.githubusercontent.com/75e5b34fac6178dfcb6263f9c1dd218ac6cc28a73597366d23a432802aaf96df/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64332f33392f63632f64333339636339313932353734653933633238316264393030313937383866652e6a7067" width="180" />

@@ -105,40 +105,42 @@
   <table>
     <tr>
       <td colspan="2" align="left">
-      <h2 align="center"><strong> 💌 Contacts ᯓ🩷 : </h3>
+        <h2 align="center"><strong> 💌 Contacts ᯓ🩷 : </strong></h2>
         <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌷</span>
       </td>
     </tr>
-      <br></br><br>
+    <br></br><br>
     <tr>
       <td>
         <a href="https://wa.me/0773459719" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-%238BC34A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="180" height="50"/>  
+          <img src="https://img.shields.io/badge/WhatsApp-%23F06292.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" width="180" height="50"/>  
         </a>
         <a href="https://www.snapchat.com/add/axel57240" target="_blank">
-          <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/Snapchat-%23F06292.svg?&style=for-the-badge&logo=Snapchat&logoColor=white" alt="Snapchat" width="150" height="50"/>
         </a>
         <a href="https://42born2code.slack.com/archives/D06KU6SF909" target="_blank">
-          <img src="https://img.shields.io/badge/Slack-%2312B7A4.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/Slack-%23F06292.svg?&style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" width="150" height="50"/>
         </a>
         <br>
         <a href="https://github.com/Axeltheaxelotl" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/GitHub-%23F06292.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" width="150" height="50"/>
         </a>
         <a href="https://discord.com/users/justaxelotl" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237292FF.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/Discord-%23F06292.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="150" height="50"/>
         </a>
         <br>
         <a href="mailto:axellanty14@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="150" height="50"/>
+          <img src="https://img.shields.io/badge/Gmail-%23F06292.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="150" height="50"/>
         </a>
       </td>
       <td>
-        <img src="https://i.pinimg.com/236x/fe/70/17/fe7017e5a67e7e9bc2abe2fa8158bcae.jpg" width="180" />
+        <img src="https://i.pinimg.com/736x/e9/6c/df/e96cdf7a41d14797c48d5a7d8e9907ee.jpg" width="180" />
       </td>
     </tr>
   </table>
 </div>
+
+
 
 <br></br>
 
@@ -166,7 +168,7 @@
 
 <!-- GIF de fin en rouge -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b6/02/e7/b602e7ecdd53abbc12e0b15b1838d795.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.pinimg.com/736x/b6/3d/8a/b63d8aac05847fc9b51af34847fb7171.jpg" alt="Fuck you" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---
@@ -251,7 +253,7 @@
         <h2>J'ai déjà utilisé ChatGPT avant vous !!! </h2>
       </td>
       <td>
-        <img src="https://i.pinimg.com/236x/b5/12/e6/b512e66a4d4a7227e1e8fd95969884d5.jpg" width="200" />
+        <img src="https://i.pinimg.com/236x/0d/f8/d5/0df8d55b9c74c5fa0d3c9534a3f43d0e.jpg" width="200" />
       </td>
     </tr>
   </table>

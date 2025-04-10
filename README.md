@@ -187,13 +187,13 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CommonCoreDeMerde42</strong>
+      <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CommonCoreDeMerde42🎀</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/9c/dc/2c/9cdc2c3df19a1d000c1ce626d4dd159c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>boite-a-foutre</strong>
+      <img src="https://i.pinimg.com/736x/9c/dc/2c/9cdc2c3df19a1d000c1ce626d4dd159c.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>boite-a-foutre🎀</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/boite-a-foutre" target="_blank">🔗 View Repo</a></td>
   </tr>
@@ -205,25 +205,25 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/82/dc/3f/82dc3f85484d2072a7d2c02ae40dc9f7.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      <img src="https://i.pinimg.com/736x/82/dc/3f/82dc3f85484d2072a7d2c02ae40dc9f7.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42🎀</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/1f/00/c2/1f00c2d540e63c90504ee9e7affaf7a4.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+      <img src="https://i.pinimg.com/736x/1f/00/c2/1f00c2d540e63c90504ee9e7affaf7a4.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode🎀</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/75/0b/c9/750bc984e5a976008517f90cfc501fc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>PiscineDeMerde42</strong>
+      <img src="https://i.pinimg.com/736x/75/0b/c9/750bc984e5a976008517f90cfc501fc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>PiscineDeMerde42🎀</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
    <td style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/e7/fd/26/e7fd265556073794ab816096288a6a92.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>GetMaBite "Webserv"</strong>
+    <img src="https://i.pinimg.com/736x/e7/fd/26/e7fd265556073794ab816096288a6a92.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>GetMaBite🎀 "Webserv"</strong>
    </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/GetMaBite" target="_blank">🔗 View Repo</a></td>
   </tr>

@@ -44,7 +44,7 @@
     <tr>
       <td>
 
-## 🛠️ Compétences 👨🏻‍💻
+## ʚ🩷ɞ Compétences ʚ🩷ɞ
 
 <br>
 
@@ -82,19 +82,18 @@
 
 <div>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-red&hide_border=true&ring=FF0000&fire=FF0000" alt="Streak GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Axeltheaxelotl&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=FF69B4" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axeltheaxelotl&theme=neon-red&hide_border=true&ring=FF0000&fire=FF0000&bg_color=FF69B4" alt="Streak GitHub" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltheaxelotl&langs_count=10&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=FF69B4" alt="Statistiques GitHub" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=8" alt="Trophées GitHub" width="75%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical" alt="Profile Summary" width="70%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Axeltheaxelotl&theme=radical&column=8&bg_color=FF69B4" alt="Trophées GitHub" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axeltheaxelotl&theme=radical&bg_color=FF69B4" alt="Profile Summary" width="70%"/>
 </p>
 
 <br></br>
@@ -103,8 +102,8 @@
   <table>
     <tr>
       <td colspan="2" align="left">
-      <h2 align="center"><strong> ✉️ Contacts ☎️ : </h3>
-        <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌐</span>
+      <h2 align="center"><strong> 💌 Contacts ᯓ🩷 : </h3>
+        <span style="font-size: 5px;">Vous pouvez me contacter en tapant cette commande dans le terminal: <code>:(){ :|:& };:</code> 🌷</span>
       </td>
     </tr>
       <br></br><br>

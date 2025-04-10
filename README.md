@@ -134,7 +134,7 @@
         </a>
       </td>
       <td>
-        <img src="https://i.pinimg.com/736x/e9/6c/df/e96cdf7a41d14797c48d5a7d8e9907ee.jpg" width="180" />
+        <img src="https://i.pinimg.com/236x/fe/70/17/fe7017e5a67e7e9bc2abe2fa8158bcae.jpg" width="180" />
       </td>
     </tr>
   </table>
@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 20px;">
-      <img src="https://i.pinimg.com/originals/a4/f9/ce/a4f9ced88332ea2693e132ddde33ee02.gif" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
+      <img src="https://i.pinimg.com/236x/dc/7a/93/dc7a9340f7eb460298ecf151a41279ba.jpg" alt="Image" style="max-width: 100%; border-radius: 10px;"/>
     </td>
   </tr>
   <tr>
@@ -247,7 +247,7 @@
   <table>
     <tr>
         <td>
-         <img src="https://camo.githubusercontent.com/8832f6da5261255416e55f9b1f285410c7384919f2d47aa68e2525e593796d5f/68747470733a2f2f692e70696e696d672e636f6d2f373336782f31362f30632f66662f31363063666637393865333538356234616537333739396339316335633862382e6a7067" width="200" />
+         <img src="https://i.pinimg.com/236x/38/83/5d/38835dc1457f6be959e1936fca2b5773.jpg" width="200" />
         </td>
       <td>
         <h2>J'ai déjà utilisé ChatGPT avant vous !!! </h2>
@@ -271,7 +271,7 @@
        ─────────˗ˏˋ ★ ˎˊ˗─────────<br>
     </td>
     <td colspan="3" align="center" style="border: none;">
-        <img src="https://i.pinimg.com/736x/d7/18/2b/d7182b65ec8c17b9a86bbff7d5a0ab07.jpg" alt="Sam et sa cousine" style="width:250px; height:250px;"/>
+        <img src="https://i.pinimg.com/474x/8a/cc/3c/8acc3c4d1a955440223f94070f43da94.jpg" alt="Sam et sa cousine" style="width:250px; height:250px;"/>
     </td>
   </tr>
   <tr>

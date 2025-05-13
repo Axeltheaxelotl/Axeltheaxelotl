@@ -200,37 +200,37 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/9f/f6/e2/9ff6e2de2043fb5a1f3e26b8c62f1292.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CPP</strong>
+      <img src="https://i.pinimg.com/736x/9f/f6/e2/9ff6e2de2043fb5a1f3e26b8c62f1292.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/CPP" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/82/dc/3f/82dc3f85484d2072a7d2c02ae40dc9f7.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>d_formatter_42</strong>
+      <img src="https://i.pinimg.com/736x/82/dc/3f/82dc3f85484d2072a7d2c02ae40dc9f7.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/d_formatter_42" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/1f/00/c2/1f00c2d540e63c90504ee9e7affaf7a4.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>skills-copilot-codespaces-vscode</strong>
+      <img src="https://i.pinimg.com/736x/1f/00/c2/1f00c2d540e63c90504ee9e7affaf7a4.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/skills-copilot-codespaces-vscode" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/75/0b/c9/750bc984e5a976008517f90cfc501fc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>PiscineDeMerde42</strong>
+      <img src="https://i.pinimg.com/736x/75/0b/c9/750bc984e5a976008517f90cfc501fc8.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/Piscine_42" target="_blank">🔗 View Repo</a></td>
   </tr>
   <tr>
    <td style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/e7/fd/26/e7fd265556073794ab816096288a6a92.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>GetMaBite "Webserv"</strong>
+    <img src="https://i.pinimg.com/736x/e7/fd/26/e7fd265556073794ab816096288a6a92.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
    </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/GetMaBite" target="_blank">🔗 View Repo</a></td>
   </tr>
     <tr>
    <td style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/6d/49/92/6d499204d5479dba086bc9139d9da806.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>42_ExamDeMerde</strong>
+    <img src="https://i.pinimg.com/736x/6d/49/92/6d499204d5479dba086bc9139d9da806.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
    </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42_ExamDeMerde" target="_blank">🔗 View Repo</a></td>
   </tr>

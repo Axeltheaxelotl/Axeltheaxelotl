@@ -188,7 +188,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>CommonCoreDeMerde42</strong>
+      <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Icon" style="width: 35px; vertical-align: middle;"/> <strong>TIG</strong>
     </td>
     <td style="text-align: center;"><a href="https://github.com/Axeltheaxelotl/42-Common-Core" target="_blank">🔗 View Repo</a></td>
   </tr>

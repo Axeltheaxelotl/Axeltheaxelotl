@@ -1,7 +1,7 @@
 <div>
   <img src="https://img.shields.io/github/followers/Axeltheaxelotl?label=Followers&style=for-the-badge&color=FF0000" />
   <img src="https://img.shields.io/github/stars/Axeltheaxelotl?label=Stars&style=for-the-badge&color=FF0000" />
-  <img src="https://komarev.com/ghpvc/?username=Axeltheaxelotl&label=Profile%20views&color=FF0000&style=for-the-badge" alt="SLDDL" />
+  <img src="https://komarev.com/ghpvc/?username=Axeltheaxelotl&label=Profile%20views&color=FF0000&style=for-the-badge" alt="suce" />
 </div>
 
 <br>

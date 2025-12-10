@@ -73,9 +73,8 @@
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Java](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
-![CMake](https://skillicons.dev/icons?i=cmake)
 
 
 

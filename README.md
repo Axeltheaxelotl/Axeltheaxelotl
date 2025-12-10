@@ -53,7 +53,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Vim](https://skillicons.dev/icons?i=vim)
-![SQL](https://skillicons.dev/icons?i=sql)
+![Assembly](https://skillicons.dev/icons?i=assembly)
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 ![SQL](https://skillicons.dev/icons?i=sql)
@@ -63,18 +63,24 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![HTML](https://skillicons.dev/icons?i=html)
-![SQL](https://skillicons.dev/icons?i=sql)
+![CSS](https://skillicons.dev/icons?i=css)
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+![npm](https://skillicons.dev/icons?i=npm)
+![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
+
 
 
 

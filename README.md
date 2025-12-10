@@ -67,8 +67,8 @@
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 ![SQL](https://skillicons.dev/icons?i=sql)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![SQL](https://skillicons.dev/icons?i=sql)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Git](https://skillicons.dev/icons?i=git)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)

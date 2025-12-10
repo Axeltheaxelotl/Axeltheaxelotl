@@ -50,7 +50,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Vim](https://skillicons.dev/icons?i=vim)
-![Assembly](https://skillicons.dev/icons?i=assembly)
+![ASM](https://skillicons.dev/icons?i=asm)
 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -70,6 +70,7 @@
 ![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![CSS](https://skillicons.dev/icons?i=css)
+
 
 
 

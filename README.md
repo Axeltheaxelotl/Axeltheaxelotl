@@ -67,13 +67,13 @@
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 ![SQL](https://skillicons.dev/icons?i=sql)
-![SQL](https://skillicons.dev/icons?i=sql)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![SQL](https://skillicons.dev/icons?i=sql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![CMake](https://skillicons.dev/icons?i=cmake)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 

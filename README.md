@@ -79,6 +79,7 @@
 ![npm](https://skillicons.dev/icons?i=npm)
 ![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![CSS](https://skillicons.dev/icons?i=css)
 ![SQL](https://skillicons.dev/icons?i=sql)
 
 

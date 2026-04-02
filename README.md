@@ -1,7 +1,7 @@
 <h1 align="center">Bonsoir 👋, I'm axel</h1>
 
 <p align="center">
-  <em>Student at <a href="https://42.com"></a> • Passionate about systems programming & web development</em>
+  <em>Student at 42 <a href="https://42.com"></a> • Passionate about systems programming & web development</em>
 </p>
 
 <p align="center">

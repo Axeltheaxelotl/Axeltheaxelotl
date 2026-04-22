@@ -45,16 +45,6 @@
 
 ---
 
-### 📁 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [42-Common-Core](https://github.com/Axeltheaxelotl/42-Common-Core) | 42 School curriculum projects |
-| [CPP](https://github.com/Axeltheaxelotl/CPP) | C++ modules from 42 |
-| [Piscine_42](https://github.com/Axeltheaxelotl/Piscine_42) | 42 Piscine exercises |
-
----
-
 ### 📫 Connect with me
 
 <p align="center">

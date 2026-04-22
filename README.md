@@ -58,9 +58,3 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>

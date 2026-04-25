@@ -29,6 +29,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,nginx,cmake,sqlite&theme=dark" alt="Other"/>
 </p>
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000&theme=dark" alt="Tools"/>
+</p>
 
 ---
 
